@@ -1,0 +1,38 @@
+{
+  "0": {
+    "title": "Title1",
+    "author": "Author",
+    "publishDate": "14/02/2019",
+    "img": {
+      "src": "/assets/images/books.avif",
+      "alt": "AltText"
+    }
+  },
+  "1": {
+    "title": "Title2",
+    "author": "Author",
+    "publishDate": "14/02/2019",
+    "img": {
+      "src": "/assets/images/books.avif",
+      "alt": "AltText"
+    }
+  },
+  "2": {
+    "title": "Title3",
+    "author": "Author",
+    "publishDate": "14/02/2019",
+    "img": {
+      "src": "/assets/images/books.avif",
+      "alt": "AltText"
+    }
+  },
+  "3": {
+    "title": "Title4",
+    "author": "Author",
+    "publishDate": "14/02/2019",
+    "img": {
+      "src": "/assets/images/books.avif",
+      "alt": "AltText"
+    }
+  }
+}
