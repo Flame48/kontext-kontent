@@ -1,11 +1,11 @@
 {
-  "0": {
-    "title": "Title1",
-    "author": "Author",
-    "publishDate": "14/02/2019",
+  "5668499119450008203": {
+    "title": "The Vegetarian",
+    "author": "Han Kang",
+    "publishDate": "30/10/2007",
     "img": {
-      "src": "/assets/images/books.avif",
-      "alt": "AltText"
+      "src": "/assets/images/TheVegetarian.jpg",
+      "alt": "Book Cover of Han Kang's \"The Vegetarian\" featuring the sillhouette of a woman looking up with a red background. The text \"THE VEGETARIAN - HAN KANG\" is placed over it in white text."
     }
   },
   "1": {
