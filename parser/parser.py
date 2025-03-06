@@ -85,7 +85,7 @@ def mergeText(nst: List[Dict]) -> List[Dict]:
 def isNonEmpty(tg: Dict) -> bool:
   if (tg['type'] == 'text'):
     return len(tg['content'].strip())!=0
-  if (tg['type'] in ['br', 'img']):
+  if (tg['type'] in ['hr', 'img']):
     return True
   if not ('children' in tg):
     return True
@@ -162,8 +162,8 @@ def natify(nst: List[Dict]|Dict) -> List[Union["Section", Paragraph]]|Any:
         return Link(c['href'], natify(getText(c['children'])))
       case 'text':
         return Text(c['content'])
-      case 'br':
-        return Br()
+      case 'hr':
+        return Hr()
     return
   
   toRet: List[Union["Section", Paragraph]] = []
@@ -179,8 +179,8 @@ def natify(nst: List[Dict]|Dict) -> List[Union["Section", Paragraph]]|Any:
         toRet.append(Link(c['href'], natify(getText(c['children']))))
       case 'text':
         toRet.append(Text(c['content']))
-      case 'br':
-        toRet.append(Br())
+      case 'hr':
+        toRet.append(Hr())
       case _:
         continue
         # raise KeyError(f"Invalid Key {c['type']}")

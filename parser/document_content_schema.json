@@ -10,6 +10,7 @@
       "items": {
         "oneOf": [
           { "$ref": "#/definitions/paragraph" },
+          { "$ref": "#/definitions/hr" },
           { "$ref": "#/definitions/section" }
         ]
       }
@@ -31,6 +32,7 @@
           "items": {
             "oneOf": [
               { "$ref": "#/definitions/paragraph" },
+              { "$ref": "#/definitions/hr" },
               { "$ref": "#/definitions/section" }
             ]
           }
@@ -48,7 +50,7 @@
           "items": {
             "oneOf": [
               { "$ref": "#/definitions/text" },
-              { "$ref": "#/definitions/br" },
+              { "$ref": "#/definitions/hr" },
               { "$ref": "#/definitions/link" },
               { "$ref": "#/definitions/image" }
             ]
@@ -95,10 +97,10 @@
       "required": ["type", "src", "alt"]
     },
 
-    "br": {
+    "hr": {
       "type": "object",
       "properties": {
-        "type": { "const": "br" }
+        "type": { "const": "hr" }
       },
       "required": ["type"]
     }

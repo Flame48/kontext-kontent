@@ -46,6 +46,9 @@
           "type": "paragraph"
         },
         {
+          "type": "hr"
+        },
+        {
           "elements": [
             {
               "elements": [
@@ -197,15 +200,9 @@
                       "format": []
                     },
                     {
-                      "type": "br"
-                    },
-                    {
                       "content": "English: A: Did you have breakfast? B: Yes, I had a slice of bread.",
                       "type": "text",
                       "format": []
-                    },
-                    {
-                      "type": "br"
                     },
                     {
                       "content": "English: A: Did you have breakfast? B: Yes, I had a slice of bread.",
@@ -223,15 +220,9 @@
                       "format": []
                     },
                     {
-                      "type": "br"
-                    },
-                    {
                       "content": "A word-for-word Korean translation of this would be: A: \ub124\uac00 \uc544\uce68\uc744 \uba39\uc5c8\uc5b4? B: \uc751, \ub098\ub294 \ube75 \ud55c \uc870\uac01\uc744 \uba39\uc5c8\uc5b4.",
                       "type": "text",
                       "format": []
-                    },
-                    {
-                      "type": "br"
                     },
                     {
                       "content": "A word-for-word Korean translation of this would be: A: \ub124\uac00 \uc544\uce68\uc744 \uba39\uc5c8\uc5b4? B: \uc751, \ub098\ub294 \ube75 \ud55c \uc870\uac01\uc744 \uba39\uc5c8\uc5b4.",
@@ -249,15 +240,9 @@
                       "format": []
                     },
                     {
-                      "type": "br"
-                    },
-                    {
                       "content": "However, this sounds unnatural in Korean. The more natural way to phrase this conversation would be: A: \uc544\uce68 \uba39\uc5c8\uc5b4? B: \uc751, \ube75 \ud55c \uc870\uac01 \uba39\uc5c8\uc5b4.",
                       "type": "text",
                       "format": []
-                    },
-                    {
-                      "type": "br"
                     },
                     {
                       "content": "However, this sounds unnatural in Korean. The more natural way to phrase this conversation would be: A: \uc544\uce68 \uba39\uc5c8\uc5b4? B: \uc751, \ube75 \ud55c \uc870\uac01 \uba39\uc5c8\uc5b4.",
@@ -276,6 +261,9 @@
                     }
                   ],
                   "type": "paragraph"
+                },
+                {
+                  "type": "hr"
                 }
               ],
               "heading": "Example: Subject Ambiguity in Korean",
@@ -426,6 +414,9 @@
                 }
               ],
               "type": "paragraph"
+            },
+            {
+              "type": "hr"
             },
             {
               "elements": [

@@ -74,6 +74,9 @@
               "type": "paragraph"
             },
             {
+              "type": "hr"
+            },
+            {
               "elements": [
                 {
                   "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis_on_A_Day_in_the_Life_of_Kubo_the_Novelist/images/image5.png",

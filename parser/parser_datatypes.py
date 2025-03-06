@@ -1,10 +1,10 @@
 from dataclasses import dataclass, field
 import dataclasses
-from typing import Any, Dict, List, Optional, Literal, Tuple, Union
+from typing import Dict, List, Optional, Literal, Union
 
 @dataclass
-class Br:
-  type: str = "br"
+class Hr:
+  type: str = "hr"
 
 @dataclass
 class Text:
@@ -30,7 +30,7 @@ class Image:
 
 @dataclass
 class Paragraph:
-  elements: List[Union[Text, Br, Link, Image]]
+  elements: List[Union[Text, Hr, Link, Image]]
   type: str = "paragraph"
   
 @dataclass
@@ -43,7 +43,7 @@ class Section:
 class Document:
   id: str
   title: str
-  elements: List[Union["Section", Paragraph]]
+  elements: List[Union["Section", Paragraph, Hr]]
   banner: Optional[Image] = None
   metadata: Dict = field(default_factory=dict)
 
