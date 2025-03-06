@@ -337,7 +337,7 @@ def updateRootContentJSON(id, title, author, publish_date, thumbnail_filepath, t
     'author': author,
     'publishDate': publish_date,
     'img': {
-      'src': '/assets/images/books.avif' if thumbnail_filepath==None else f'{API_ROOT_URL}/docs/{id}/images/{os.path.basename(thumbnail_filepath)}',
+      'src': '/assets/images/books.avif' if thumbnail_filepath==None else f'/docs/{id}/images/{os.path.basename(thumbnail_filepath)}',
       'alt': title if thumbnail_alt==None else thumbnail_alt
     },
     'showTitleOverlay': False,
