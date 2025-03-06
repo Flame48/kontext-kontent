@@ -1,0 +1,105 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Document",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "title": { "type": "string" },
+    "elements": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          { "$ref": "#/definitions/paragraph" },
+          { "$ref": "#/definitions/section" }
+        ]
+      }
+    },
+    "metadata": { "type": "object" }
+  },
+
+  "required": ["title", "elements"],
+
+  "definitions": {
+    "section": {
+      "type": "object",
+      "properties": {
+        "type": { "const": "section" },
+        "heading": { "type": "string" },
+        "elements": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              { "$ref": "#/definitions/paragraph" },
+              { "$ref": "#/definitions/section" }
+            ]
+          }
+        }
+      },
+      "required": ["heading", "elements"]
+    },
+
+    "paragraph": {
+      "type": "object",
+      "properties": {
+        "type": { "const": "paragraph" },
+        "elements": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              { "$ref": "#/definitions/text" },
+              { "$ref": "#/definitions/br" },
+              { "$ref": "#/definitions/link" },
+              { "$ref": "#/definitions/image" }
+            ]
+          }
+        }
+      },
+      "required": ["type", "elements"]
+    },
+
+    "text": {
+      "type": "object",
+      "properties": {
+        "type": { "const": "text" },
+        "content": { "type": "string" },
+        "format": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["bold", "italic", "underline"]
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": ["type", "content"]
+    },
+
+    "link": {
+      "type": "object",
+      "properties": {
+        "type": { "const": "link" },
+        "href": { "type": "string", "format": "uri" },
+        "text": { "$ref": "#/definitions/text" }
+      },
+      "required": ["type", "href", "text"]
+    },
+
+    "image": {
+      "type": "object",
+      "properties": {
+        "type": { "const": "image" },
+        "src": { "type": "string", "format": "uri" },
+        "alt": { "type": "string" }
+      },
+      "required": ["type", "src", "alt"]
+    },
+
+    "br": {
+      "type": "object",
+      "properties": {
+        "type": { "const": "br" }
+      },
+      "required": ["type"]
+    }
+  }
+}

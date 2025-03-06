@@ -1,41 +1,21 @@
 {
-  "5668499119450008203": {
-    "title": "The Vegetarian",
-    "author": "Han Kang",
-    "publishDate": "30/10/2007",
+  "8cba48be-d4f6-4658-a6d9-e67dd96340fb": {
+    "title": "Misinterpretations in the English Translation of The Vegetarian: A Linguistic Perspective",
+    "author": "Han Solo",
+    "publishDate": "19/10/1998",
     "img": {
-      "src": "/assets/images/TheVegetarian.png",
-      "alt": "Book Cover of Han Kang's \"The Vegetarian\" featuring the sillhouette of a woman looking up with a red background. The text \"THE VEGETARIAN - HAN KANG\" is placed over it in white text."
+      "src": "./docs/8cba48be-d4f6-4658-a6d9-e67dd96340fb/images/thumbnail.png",
+      "alt": "Misinterpretations in the English Translation of The Vegetarian: A Linguistic Perspective"
     },
     "showTitleOverlay": false
   },
-  "1": {
-    "title": "Title2",
-    "author": "Author",
-    "publishDate": "14/02/2019",
+  "813a3c86-486c-471b-9e49-f642dd8c0bd0": {
+    "title": "Walking Through 1930s Korea with A Day in the Life of Kubo the Novelist",
+    "author": "MJ",
+    "publishDate": "17/06/2021",
     "img": {
       "src": "/assets/images/books.avif",
-      "alt": "AltText"
-    },
-    "showTitleOverlay": false
-  },
-  "2": {
-    "title": "Title3",
-    "author": "Author",
-    "publishDate": "14/02/2019",
-    "img": {
-      "src": "/assets/images/books.avif",
-      "alt": "AltText"
-    },
-    "showTitleOverlay": false
-  },
-  "3": {
-    "title": "Title4",
-    "author": "Author",
-    "publishDate": "14/02/2019",
-    "img": {
-      "src": "/assets/images/books.avif",
-      "alt": "AltText"
+      "alt": "Walking Through 1930s Korea with A Day in the Life of Kubo the Novelist"
     },
     "showTitleOverlay": false
   }

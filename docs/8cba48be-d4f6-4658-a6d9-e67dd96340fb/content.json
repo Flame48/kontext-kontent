@@ -1,0 +1,450 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/parser/document_content_schema.json",
+  "id": "8cba48be-d4f6-4658-a6d9-e67dd96340fb",
+  "title": "Misinterpretations in the English Translation of The Vegetarian: A Linguistic Perspective",
+  "elements": [
+    {
+      "elements": [
+        {
+          "elements": [
+            {
+              "content": "In December, South Korea received thrilling news: the renowned author Han Kang had been awarded the Nobel Prize in Literature. This was an unprecedented moment in South Korea's academic history, as the country had never before produced a Nobel laureate outside of the Peace Prize category. Even including the Peace Prize, this made Han Kang only the second Nobel laureate from South Korea, making the recognition both unexpected and extraordinary for many Koreans.",
+              "type": "text",
+              "format": []
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "elements": [
+            {
+              "content": "Han Kang is widely known in South Korea for her historical novel \uc18c\ub144\uc774 \uc628\ub2e4 ( Human Acts ), which explores the real-life coup and subsequent civilian resistance that took place in the 20th century. Among international readers, she is best known for her novel The Vegetarian , a work composed of three interconnected short stories: \ucc44\uc2dd\uc8fc\uc758\uc790 ( The Vegetarian ), \ubabd\uace0\ubc18\uc810 ( Mongolian Mark ), and \ub098\ubb34 \ubd88\uaf43 ( Flaming Trees ). While each section has a different narrator, the central figure remains Yeong-hye, a woman who first refuses to eat meat, then gradually rejects all food, ultimately believing that she can survive solely on sunlight, as if she were a tree.",
+              "type": "text",
+              "format": []
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "elements": [
+            {
+              "content": "Due to its deeply symbolic nature and weighty themes, The Vegetarian is a novel that is often challenging to grasp in its entirety. If one is looking for a straightforward summary, Wikipedia would be a far more useful resource than personal notes like these\u2014after all, I personally do not believe that knowing the plot in advance diminishes the novel\u2019s impact. The true essence of The Vegetarian lies not in its sequence of events but in its intricate depiction of Yeong-hye\u2019s transformation.",
+              "type": "text",
+              "format": []
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "elements": [
+            {
+              "content": "However, as a Korean speaker and an educator teaching Korean language and literature, I would like to highlight some of the translation errors in the English edition of The Vegetarian and explore how these inaccuracies stem from linguistic differences between Korean and English.",
+              "type": "text",
+              "format": []
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "One of the most well-known issues with the first English edition of The Vegetarian was the presence of numerous mistranslations. These errors were so substantial that Han Kang and the translator collaborated to correct over 60 mistranslations, resulting in a revised edition. While some of these errors arose from the translator\u2019s personal interpretations or cultural misunderstandings, many stemmed from fundamental grammatical differences between Korean and English. Put simply, many errors can be attributed to a lack of proficiency in Korean grammar.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "elements": [
+                    {
+                      "content": "In the original Korean text, Yeong-hye\u2019s father-in-law expresses his satisfaction at how well the couple has settled down:",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "\"\uc774\uc81c \ub108\ud76c \uac71\uc815\uc740 \ub2e4 \uc78a\uc5b4\ubc84\ub838\ub2e4. \uc644\uc804\ud788 \uc790\ub9ac\ub97c \uc7a1\uc558\uad6c\ub098.\" \uc7a5\uc778\uc774 \uc218\uc800\ub97c \ub4e4\uba70 \ud55c\ub9c8\ub514 \ud588\ub2e4.",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "The initial English translation rendered this as:",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "\"Now you've forgotten all your worries.\" My father-in-law pronounced, taking up his spoon and chopsticks. \"Completely seized the moment!\"",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "This is a clear mistranslation, as the speaker\u2019s intended meaning has been distorted. In the original Korean, it is the father-in-law himself who has \"forgotten all the worries\" he once had about the couple. However, in the English translation, the subject has been incorrectly changed to \"you,\" implying that the couple has forgotten their own worries.",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "English speakers might wonder: \"How could the translator have gotten the subject so wrong?\" The answer lies in a fundamental characteristic of Korean grammar\u2014omission of sentence elements.",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "In Korean, it is common practice to omit subjects or other components when they are inferable from context. In the original Korean dialogue, the subject of \"\uc78a\uc5b4\ubc84\ub838\ub2e4\" (forgot) is not explicitly stated, but Korean readers naturally understand that it refers to the father-in-law. If all elements were fully stated, the sentence would read:",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "\"(\ub098\ub294) \uc774\uc81c \ub108\ud76c \uac71\uc815\uc740 \ub2e4 \uc78a\uc5b4\ubc84\ub838\ub2e4. (\ub108\ud76c\ub294) \uc644\uc804\ud788 \uc790\ub9ac\ub97c \uc7a1\uc558\uad6c\ub098.\"",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "Since it is evident that the father-in-law is speaking, explicitly stating \"I\" is unnecessary. Conversely, in English, leaving out the subject in this way would make the sentence confusing or ambiguous, so it must be explicitly stated.",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "If we were to correctly translate this sentence while preserving its intended meaning, it would be:",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "\"I've forgotten all my worries about you now. You've completely settled down,\" my father-in-law said, taking up his spoon and chopsticks.",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "This corrects the subject confusion while maintaining the flow of the original dialogue.",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "Another everyday example of this phenomenon can be seen in simple exchanges like:",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "English: A: Did you have breakfast? B: Yes, I had a slice of bread.",
+                      "type": "text",
+                      "format": []
+                    },
+                    {
+                      "type": "br"
+                    },
+                    {
+                      "content": "English: A: Did you have breakfast? B: Yes, I had a slice of bread.",
+                      "type": "text",
+                      "format": []
+                    },
+                    {
+                      "type": "br"
+                    },
+                    {
+                      "content": "English: A: Did you have breakfast? B: Yes, I had a slice of bread.",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "A word-for-word Korean translation of this would be: A: \ub124\uac00 \uc544\uce68\uc744 \uba39\uc5c8\uc5b4? B: \uc751, \ub098\ub294 \ube75 \ud55c \uc870\uac01\uc744 \uba39\uc5c8\uc5b4.",
+                      "type": "text",
+                      "format": []
+                    },
+                    {
+                      "type": "br"
+                    },
+                    {
+                      "content": "A word-for-word Korean translation of this would be: A: \ub124\uac00 \uc544\uce68\uc744 \uba39\uc5c8\uc5b4? B: \uc751, \ub098\ub294 \ube75 \ud55c \uc870\uac01\uc744 \uba39\uc5c8\uc5b4.",
+                      "type": "text",
+                      "format": []
+                    },
+                    {
+                      "type": "br"
+                    },
+                    {
+                      "content": "A word-for-word Korean translation of this would be: A: \ub124\uac00 \uc544\uce68\uc744 \uba39\uc5c8\uc5b4? B: \uc751, \ub098\ub294 \ube75 \ud55c \uc870\uac01\uc744 \uba39\uc5c8\uc5b4.",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "However, this sounds unnatural in Korean. The more natural way to phrase this conversation would be: A: \uc544\uce68 \uba39\uc5c8\uc5b4? B: \uc751, \ube75 \ud55c \uc870\uac01 \uba39\uc5c8\uc5b4.",
+                      "type": "text",
+                      "format": []
+                    },
+                    {
+                      "type": "br"
+                    },
+                    {
+                      "content": "However, this sounds unnatural in Korean. The more natural way to phrase this conversation would be: A: \uc544\uce68 \uba39\uc5c8\uc5b4? B: \uc751, \ube75 \ud55c \uc870\uac01 \uba39\uc5c8\uc5b4.",
+                      "type": "text",
+                      "format": []
+                    },
+                    {
+                      "type": "br"
+                    },
+                    {
+                      "content": "However, this sounds unnatural in Korean. The more natural way to phrase this conversation would be: A: \uc544\uce68 \uba39\uc5c8\uc5b4? B: \uc751, \ube75 \ud55c \uc870\uac01 \uba39\uc5c8\uc5b4.",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "elements": [
+                    {
+                      "content": "The omitted subjects (\"you\" in A's question and \"I\" in B's answer) are easily inferred, making explicit pronouns unnecessary. The English translation of The Vegetarian failed to recognize this fundamental aspect of Korean, leading to incorrect subject attribution in several instances.",
+                      "type": "text",
+                      "format": []
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "heading": "Example: Subject Ambiguity in Korean",
+              "type": "section"
+            }
+          ],
+          "heading": "1. Misinterpretations Due to Omission of Essential Sentence Elements",
+          "type": "section"
+        },
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "Consider the following monologue from In-hye, reflecting on her ex-husband:",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "\"\uc544\ub9c8 \uadf8\ub3c4 \uc9c0\uae08 \uc774\ub807\uac8c \uc0b4\uc544\uac00\uace0 \uc788\uc744 \uac70\ub77c\ub294 \uc0dd\uac01\uc774 \ub4e4 \ub54c, \uc78a\ud600\uc84c\ub358 \uc5f0\ubbfc\uc774 \ub9c8\uce58 \uc878\uc74c\ucc98\ub7fc \uc4f8\uc4f8\ud558\uac8c \ubd88\ub7ec\uc77c\uc73c\ucf1c\uc9c0\uae30\ub3c4 \ud55c\ub2e4.\"",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "The original English translation rendered this as:",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "\"And they probably have these same thoughts, too, and when they do it must make them cheerfully recall all the sadness they'd briefly managed to forget.\"",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "This translation drastically alters the meaning of the original text. The Korean sentence shifts between two different subjects\u2014her ex-husband and herself\u2014whereas the English translation collapses both into \"they,\" losing the original nuance. If we were to correct this while maintaining accuracy, it would read:",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "\"And he probably has these same thoughts, too, and when he does, it must make me recall all the sadness I'd briefly managed to forget.\"",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "The error here stems from a fundamental difference in how pronouns function in Korean versus English.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "In English and many other Indo-European languages, third-person pronouns change based on gender (he/she/they) and number (singular/plural). However, in Korean, pronouns are used far less frequently in both spoken and written language. Instead of using \"he\" or \"she\" repeatedly, Korean often reuses proper nouns or omits the subject altogether.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "For instance, in Korean literature, it is common to repeat a character\u2019s name instead of using pronouns. A passage from the Korean novel \uad6c\ubcf4\uc528\uc758 \uc77c\uc77c ( A Day in the Life of Kubo ) illustrates this:",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "\"\uad6c\ubcf4\ub294 \uc9d1\uc744 \ub098\uc640 \ucc9c\ubcc0 \uae38\uc744 \uad11\uad50\ub85c \ud5a5\ud558\uc5ec \uac78\uc5b4\uac00\uba70, \uc5b4\uba38\ub2c8\uc5d0\uac8c \ub2e8 \ud55c\ub9c8\ub514 '\ub124-'\ud558\uace0 \ub300\ub2f5 \ubabb\ud588\ub358 \uac83\uc744 \ub258\uc6b0\uccd0 \ubcf8\ub2e4.\"",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "A natural English translation would be:",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "\"Leaving his house, Kubo walks along the riverside road toward Gwanggyo, reflecting on how he failed to utter even a single 'Yes' in response to his mother.\"",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "However, in English, \"Kubo\" would likely be replaced with \"he\" in subsequent sentences. In contrast, Korean often continues to use the name, making it harder to determine whether a pronoun should be singular, plural, gendered, or omitted entirely in translation.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "In The Vegetarian , the translator mistakenly defaulted to \"they\" due to uncertainty about the referent\u2019s gender or number, resulting in a confusing and inaccurate translation.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "These are just a few examples of the linguistic challenges faced in translating The Vegetarian from Korean to English. Even skilled translators can struggle with nuances like subject omission and pronoun ambiguity. Hopefully, Korean language learners reading this will gain a deeper appreciation of how subtle grammatical structures influence meaning\u2014and why mastering these elements is crucial for producing accurate, natural translations.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "heading": "2. Misuse of Pronouns Due to Differences in Korean Third-Person References",
+          "type": "section"
+        }
+      ],
+      "heading": "Misinterpretations in the English Translation of The Vegetarian : \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0A Linguistic Perspective",
+      "type": "section"
+    }
+  ],
+  "metadata": {}
+}
