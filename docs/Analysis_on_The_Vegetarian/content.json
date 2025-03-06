@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/parser/document_content_schema.json",
-  "id": "Analysis%20on%20%22The%20Vegetarian%22",
+  "id": "Analysis_on_The_Vegetarian",
   "title": "Analysis on \"The Vegetarian\"",
   "elements": [
     {
@@ -447,7 +447,7 @@
     }
   ],
   "banner": {
-    "src": "/docs/Analysis%20on%20%22The%20Vegetarian%22/images/banner.png",
+    "src": "/docs/Analysis_on_The_Vegetarian/images/banner.png",
     "alt": "A Banner showcasing the black sillhouette of a woman with a red background. White text spelling \"THE VEGETARIAN\" is written on top.",
     "type": "image"
   },

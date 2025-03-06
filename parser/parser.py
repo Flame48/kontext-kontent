@@ -1,4 +1,5 @@
 import os
+import re
 from urllib.parse import quote
 from dataclasses import dataclass, field
 import json
@@ -359,7 +360,10 @@ def main(user_inp):
   sectioned = sectionate(rem_empty, 1)
   native: List[Section | Paragraph] = natify(sectioned)
   
-  doc_id = quote(page_title)
+  page_title: str
+  doc_id: str = page_title.replace(" ", "_")
+  doc_id = re.sub(r'[\\/*?:"<>|#%]', "", doc_id)
+  doc_id = doc_id.strip(' .')
   
   banner: Optional[Image] = None
   if (banner_filepath!=None):
