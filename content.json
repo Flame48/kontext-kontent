@@ -4,7 +4,7 @@
     "author": "Han Solo",
     "publishDate": "19/10/1998",
     "img": {
-      "src": "./docs/8cba48be-d4f6-4658-a6d9-e67dd96340fb/images/thumbnail.png",
+      "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/8cba48be-d4f6-4658-a6d9-e67dd96340fb/images/thumbnail.png",
       "alt": "Misinterpretations in the English Translation of The Vegetarian: A Linguistic Perspective"
     },
     "showTitleOverlay": false
