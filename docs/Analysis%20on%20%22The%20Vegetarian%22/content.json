@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/parser/document_content_schema.json",
-  "id": "8cba48be-d4f6-4658-a6d9-e67dd96340fb",
-  "title": "Misinterpretations in the English Translation of The Vegetarian: A Linguistic Perspective",
+  "id": "Analysis%20on%20%22The%20Vegetarian%22",
+  "title": "Analysis on \"The Vegetarian\"",
   "elements": [
     {
       "elements": [
@@ -446,5 +446,10 @@
       "type": "section"
     }
   ],
+  "banner": {
+    "src": "/docs/Analysis%20on%20%22The%20Vegetarian%22/images/banner.png",
+    "alt": "A Banner showcasing the black sillhouette of a woman with a red background. White text spelling \"THE VEGETARIAN\" is written on top.",
+    "type": "image"
+  },
   "metadata": {}
 }

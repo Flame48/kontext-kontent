@@ -14,10 +14,11 @@
         ]
       }
     },
+    "banner": { "$ref": "#/definitions/image" },
     "metadata": { "type": "object" }
   },
 
-  "required": ["title", "elements"],
+  "required": ["id", "title", "elements"],
 
   "definitions": {
     "section": {

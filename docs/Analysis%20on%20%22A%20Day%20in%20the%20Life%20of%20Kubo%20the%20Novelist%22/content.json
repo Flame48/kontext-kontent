@@ -1,12 +1,12 @@
 {
   "$schema": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/parser/document_content_schema.json",
-  "id": "813a3c86-486c-471b-9e49-f642dd8c0bd0",
-  "title": "Walking Through 1930s Korea with A Day in the Life of Kubo the Novelist",
+  "id": "Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22",
+  "title": "Analysis on \"A Day in the Life of Kubo the Novelist\"",
   "elements": [
     {
       "elements": [
         {
-          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image2.png",
+          "src": "images/image2.png",
           "alt": "",
           "type": "image"
         }
@@ -76,7 +76,7 @@
             {
               "elements": [
                 {
-                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image5.png",
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/image5.png",
                   "alt": "",
                   "type": "image"
                 }
@@ -142,7 +142,7 @@
             {
               "elements": [
                 {
-                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image1.png",
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/image1.png",
                   "alt": "",
                   "type": "image"
                 }
@@ -292,7 +292,7 @@
             {
               "elements": [
                 {
-                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image5.png",
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/image5.png",
                   "alt": "",
                   "type": "image"
                 }
@@ -392,7 +392,7 @@
             {
               "elements": [
                 {
-                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image1.png",
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/image1.png",
                   "alt": "",
                   "type": "image"
                 }
@@ -472,7 +472,7 @@
             {
               "elements": [
                 {
-                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image6.jpg",
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/image6.jpg",
                   "alt": "",
                   "type": "image"
                 }
@@ -592,7 +592,7 @@
             {
               "elements": [
                 {
-                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image8.png",
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/image8.png",
                   "alt": "",
                   "type": "image"
                 }
@@ -742,7 +742,7 @@
             {
               "elements": [
                 {
-                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image7.png",
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/image7.png",
                   "alt": "",
                   "type": "image"
                 }
@@ -842,7 +842,7 @@
             {
               "elements": [
                 {
-                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image4.png",
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/image4.png",
                   "alt": "",
                   "type": "image"
                 }
@@ -852,7 +852,7 @@
             {
               "elements": [
                 {
-                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image3.png",
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/image3.png",
                   "alt": "",
                   "type": "image"
                 }
@@ -932,7 +932,7 @@
             {
               "elements": [
                 {
-                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image10.png",
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/image10.png",
                   "alt": "",
                   "type": "image"
                 }
@@ -1042,7 +1042,7 @@
             {
               "elements": [
                 {
-                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image11.png",
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/image11.png",
                   "alt": "",
                   "type": "image"
                 }
@@ -1122,7 +1122,7 @@
             {
               "elements": [
                 {
-                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/813a3c86-486c-471b-9e49-f642dd8c0bd0/images/image9.png",
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/image9.png",
                   "alt": "",
                   "type": "image"
                 }
@@ -1278,5 +1278,10 @@
       "type": "section"
     }
   ],
+  "banner": {
+    "src": "/docs/Analysis%20on%20%22A%20Day%20in%20the%20Life%20of%20Kubo%20the%20Novelist%22/images/banner.png",
+    "alt": "Front Cover of \"A Day in the Life of Kubo the Novelist\", featuring the author and the corresponding title.",
+    "type": "image"
+  },
   "metadata": {}
 }
