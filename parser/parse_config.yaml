@@ -1,13 +1,6 @@
-- folder_path: C:\Users\advai\Downloads\Kontext
-  page_title: Analysis on "The Vegetarian"
-  author: Han Solo
-  publish_date: 13/10/2012
-  thumbnail_alt: A Thumbnail showcasing the black sillhouette of a woman with a red background. White text spelling "THE VEGETARIAN" is written on top.
-  banner_alt: A Banner showcasing the black sillhouette of a woman with a red background. White text spelling "THE VEGETARIAN" is written on top.
-
-- folder_path: C:\Users\advai\Downloads\Kontext (3)
-  page_title: Analysis on "A Day in the Life of Kubo the Novelist"
-  author: Han Duo
-  publish_date: 05/11/2014
-  # thumbnail_alt: N/A
-  banner_alt: Front Cover of "A Day in the Life of Kubo the Novelist", featuring the author and the corresponding title.
+folder_path: /Users/saynepark/Downloads/Kontext
+page_title: Book 3
+author: Han Trio
+publish_date: 13/10/2012
+thumbnail_alt: Image of old korean books with yellowed pages.
+banner_alt: Image of an open book on a table

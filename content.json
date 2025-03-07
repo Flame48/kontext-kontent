@@ -18,5 +18,15 @@
       "alt": "Analysis on \"A Day in the Life of Kubo the Novelist\" thumbnail image."
     },
     "showTitleOverlay": false
+  },
+  "Book_3": {
+    "title": "Book 3",
+    "author": "Han Trio",
+    "publishDate": "13/10/2012",
+    "img": {
+      "src": "/docs/Book_3/images/thumbnail.png",
+      "alt": "Image of old korean books with yellowed pages."
+    },
+    "showTitleOverlay": false
   }
 }
