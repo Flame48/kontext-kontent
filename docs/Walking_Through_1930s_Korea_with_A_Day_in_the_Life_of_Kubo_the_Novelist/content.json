@@ -1,0 +1,230 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/parser/document_content_schema.json",
+  "id": "Walking_Through_1930s_Korea_with_A_Day_in_the_Life_of_Kubo_the_Novelist",
+  "title": "Walking Through 1930s Korea with A Day in the Life of Kubo the Novelist",
+  "elements": [
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Walking_Through_1930s_Korea_with_A_Day_in_the_Life_of_Kubo_the_Novelist/images/image1.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "I have always preferred novellas and interconnected short stories over lengthy novels. While long novels offer the luxury of prolonged engagement with a story, they often demand an immense memory load\u2014recalling details from volumes past or keeping track of countless characters. For a reader like me, who enjoys letting my thoughts wander while simultaneously visualizing the setting and atmosphere, lengthy novels can be overwhelming. (That said, I do not dislike them; after all, the Harry Potter series remains one of the most enjoyable reads of my life.)",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "This novel, A Day in the Life of Kubo the Novelist , was therefore an ideal read for me. It offers a well-paced novella-length story with rich background descriptions detailed enough for the reader to feel as though they are walking through the streets of 1930s Gyeongseong (modern-day Seoul) alongside the protagonist. While this novel had a significant impact on Korean literary history, it remains relatively obscure. Since half the joy of writing is self-satisfaction, I decided to discuss it regardless of its niche status.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "The novel was written by Park Taewon, who was born in 1909 in Gyeongseong and was active as a writer during the Japanese occupation of Korea. After Korea\u2019s liberation, he moved to North Korea, and his later life remains largely unknown. One of the many pen names he used was \u201cKubo,\u201d though the character \u201cKubo\u201d in the novel is written with different Chinese characters. This has led many scholars to view the novel as an autobiographical reflection of the author\u2019s own experiences. Park Taewon was considered highly educated for his time\u2014during an era when even completing high school was seen as a mark of scholarship, he attended Hosei University in Japan before returning to Gyeongseong. His works are known for their meticulous background descriptions, vividly capturing early 20th-century Gyeongseong.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "heading": "A Personal Reflection on Shorter Fiction",
+          "type": "section"
+        },
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "The novel follows a single day in the life of a writer in 1930s Gyeongseong. The plot itself is minimal: Kubo leaves his house after listening to yet another lecture from his family about getting a job and getting married. He wanders around the city, meets a friend, and eventually returns home. What makes this novel compelling is not its events but Kubo\u2019s stream-of-consciousness thoughts as he roams the city. As readers, we become immersed in his musings, seamlessly blending into the narrative.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "Looking at it another way, turning a simple walk into a novella suggests that the author saw something remarkable or beautiful in the streets of Gyeongseong. Thus, introducing this novel naturally necessitates introducing the city itself. This article follows the novel\u2019s structure, describing the city\u2019s landscape as Kubo experiences it.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "type": "hr"
+            },
+            {
+              "elements": [
+                {
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Walking_Through_1930s_Korea_with_A_Day_in_the_Life_of_Kubo_the_Novelist/images/image3.png",
+                  "alt": "",
+                  "type": "image"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "Scenery of Jongno Intersection in the 1930s",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "heading": "A Story Without a Plot",
+          "type": "section"
+        },
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "\uad6c\ubcf4\ub294 \uac11\uc790\uae30 \uac78\uc74c\uc744 \uac77\uae30\ub85c \ud55c\ub2e4. \uadf8\ub807\uac8c \uc6b0\ub450\ucee4\ub2c8 \ub2e4\ub9ac \uacc1\uc5d0 \uac00 \uc11c \uc788\ub294 \uac83\uc758 \ubb34\uc758\ubbf8\ud568\uc744 \uc0c8\uc0bc\uc2a4\ub7ec\uc774 \uae68\ub2ec\uc740 \uae4c\ub2ed\uc774\ub2e4. \uadf8\ub294 \uc885\ub85c \ub124\uac70\ub9ac\ub97c \ubc14\ub77c\ubcf4\uace0 \uac77\ub294\ub2e4. \uad6c\ubcf4\ub294 \uc885\ub85c \ub124\uac70\ub9ac\uc5d0 \uc544\ubb34\ub7f0 \uc0ac\ubb34\ub3c4 \uac16\uc9c0 \uc54a\ub294\ub2e4. \ucc98\uc74c\uc5d0 \uadf8\uac00 \uc544\ubb34\ub807\uac8c\ub098 \ub0b4\uc5b4\ub193\uc558\ub358 \ubc14\ub978\ubc1c\uc774 \uacf5\uad50\ub86d\uac8c\ub3c4 \uc67c\ud3b8\uc73c\ub85c \uc3e0\ub838\uae30 \ub54c\ubb38\uc5d0 \uc9c0\ub098\uc9c0 \uc54a\ub294\ub2e4. \uac11\uc790\uae30 \ud55c \uc0ac\ub78c\uc774 \ub098\ud0c0\ub098 \uadf8\uc758 \uc55e\uc744 \uac00\ub85c\uc9c8\ub7ec \uc9c0\ub09c\ub2e4. \uad6c\ubcf4\ub294 \uadf8 \uc0ac\ub098\uc774\uc640 \ub9c8\uc8fc\uce60 \uac83 \uac19\uc740 \ucc29\uac01\uc744 \ub290\ub07c\uace0, \uc704\ud0dc\ub86d\uac8c \uac78\uc74c\uc744 \uba48\ucd98\ub2e4.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "( Kubo suddenly decides to walk, realizing the meaninglessness of standing idly by the bridge. He gazes at Jongno Intersection as he moves forward. Kubo has no particular business at Jongno. His right foot, arbitrarily placed forward, happens to lean left, leading him there. Suddenly, a man crosses his path. Kubo feels the illusion that he will collide with the stranger and precariously halts his steps. )",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "Kubo\u2019s first stop after leaving home is Jongno Intersection. As the novel suggests, he did not set out with a purpose\u2014his feet simply led him there. Jongno Intersection was one of the busiest areas in Gyeongseong during the Japanese occupation, having been a commercial hub since the Joseon Dynasty. Unlike Honmachi (modern-day Chungmuro), which was home to Japanese settlers, this area remained predominantly Korean, and Park Taewon himself grew up there. It is likely that, for Kubo, Jongno was his familiar neighborhood.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "Wandering aimlessly through Jongno, Kubo eventually finds himself in front of a department store.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Walking_Through_1930s_Korea_with_A_Day_in_the_Life_of_Kubo_the_Novelist/images/image2.png",
+                  "alt": "",
+                  "type": "image"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "\uad6c\ubcf4\ub294, \uc57d\uac04 \uc790\uc2e0\uc774 \uc788\ub294 \ub4ef\uc2f6\uc740 \uac78\uc74c\uac78\uc774\ub85c \uc804\ucc28 \uc120\ub85c\ub97c \ub450 \ubc88 \ud6a1\ub2e8\ud558\uc5ec \ud654\uc2e0 \uc0c1\ud68c \uc55e\uc73c\ub85c \uac04\ub2e4. \uadf8\ub9ac\uace0 \uc800\ub3c4 \ubaa8\ub97c \uc0ac\uc774\uc5d0 \uadf8\uc758 \ubc1c\uc740 \ubc31\ud654\uc810 \uc548\uc73c\ub85c \ub4e4\uc5b4\uc11c\uae30\uc870\ucc28 \ud558\uc600\ub2e4. \uc80a\uc740 \ub0b4\uc678\uac00, \ub108\ub367 \uc0b4 \ub418\uc5b4 \ubcf4\uc774\ub294 \uc544\uc774\ub97c \ub370\ub9ac\uace0 \uadf8 \uacf3\uc5d0\uac00 \uc2b9\uac15\uae30\ub97c \uae30\ub2e4\ub9ac\uace0 \uc788\uc5c8\ub2e4. \uc774\uc81c \uadf8\ub4e4\uc740 \uc2dd\ub2f9\uc73c\ub85c \uac00\uc11c \uadf8\ub4e4\uc758 \uc624\ucc2c\uc744 \uc990\uae38 \uac83\uc774\ub2e4. \ud758\ub08f \uad6c\ubcf4\ub97c \ubcf8 \uadf8\ub4e4 \ub0b4\uc678\uc758 \ub208\uc5d0\ub294 \uc790\uae30\ub124\ub4e4\uc758 \ud589\ubcf5\uc744 \uc790\ub791\ud558\uace0 \uc2f6\uc5b4\ud558\ub294 \ub9c8\uc74c\uc774 \uc5ff\ubcf4\uc600\ub294\uc9c0\ub3c4 \ubaa8\ub978\ub2e4. \uad6c\ubcf4\ub294, \uadf8\ub4e4\uc744 \uc5c5\uc2e0\uc5ec\uaca8 \ubcfc\uae4c \ud558\ub2e4\uac00, \ubb38\ub4dd \uc0dd\uac01\uc744 \uace0\uccd0, \uadf8\ub4e4\uc744 \ucd95\ubcf5\ud558\uc5ec \uc8fc\ub824 \ud558\uc600\ub2e4.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "( Kubo, now walking with a bit more confidence, crosses the tram tracks twice and finds himself in front of Hwaseong Department Store. Before he realizes it, he has already stepped inside. A young couple with a child of four or five waits for the elevator. They will soon head to the restaurant to enjoy their lunch. Catching a glimpse of Kubo, the couple\u2019s gaze seems to brim with a desire to display their happiness. Kubo initially considers looking down on them but quickly changes his mind, choosing instead to offer them silent blessings. )",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "Here, Kubo observes a couple and their child, imagining their plans and happiness. This passage exemplifies the novel\u2019s use of the stream-of-consciousness technique, where Kubo\u2019s thoughts flow naturally without a structured narrative. Many readers might relate to this experience\u2014wandering through familiar streets, letting thoughts drift as they watch passersby.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "At the time, the Hwaseong Department Store was one of Gyeongseong\u2019s most prominent landmarks. It was the first modern department store founded by a Korean and remained a major commercial center. Though the store eventually closed, today\u2019s Jongno Tower stands in its place, maintaining the site\u2019s symbolic presence in the city.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "The department store featured an expansive shopping space\u2014commonplace for us now but a novel concept at the time. It housed restaurants that served traditional Korean dishes like bibimbap and sinseollo , as well as Western and Japanese cuisine. The family Kubo observes in the novel likely enjoyed one such memorable meal there.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "This immersive depiction of Jongno and its surroundings is just the beginning of Kubo\u2019s journey through Gyeongseong. His exploration continues as he navigates the city\u2019s streets, contemplating his place in the world. The following sections will delve deeper into his journey, examining the locations and thoughts that shape A Day in the Life of Kubo the Novelist .",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "heading": "The Bustling Streets of Jongno Intersection in the 1930s",
+          "type": "section"
+        }
+      ],
+      "heading": "Walking Through 1930s Korea with A Day in the Life of Kubo the Novelist",
+      "type": "section"
+    }
+  ],
+  "banner": {
+    "src": "/docs/Walking_Through_1930s_Korea_with_A_Day_in_the_Life_of_Kubo_the_Novelist/images/banner.png",
+    "alt": "Image of an main character of the book.",
+    "type": "image"
+  },
+  "metadata": {}
+}

@@ -1,7 +1,7 @@
 {
   "Analysis_on_The_Vegetarian": {
     "title": "Analysis on \"The Vegetarian\"",
-    "author": "Han Solo",
+    "author": "Han Kang",
     "publishDate": "13/10/2012",
     "img": {
       "src": "/docs/Analysis_on_The_Vegetarian/images/thumbnail.png",
@@ -9,23 +9,13 @@
     },
     "showTitleOverlay": false
   },
-  "Analysis_on_A_Day_in_the_Life_of_Kubo_the_Novelist": {
-    "title": "Analysis on \"A Day in the Life of Kubo the Novelist\"",
-    "author": "Han Duo",
-    "publishDate": "05/11/2014",
+  "Walking_Through_1930s_Korea_with_A_Day_in_the_Life_of_Kubo_the_Novelist": {
+    "title": "Walking Through 1930s Korea with A Day in the Life of Kubo the Novelist",
+    "author": "Pak Taewon",
+    "publishDate": "7/12/1938",
     "img": {
-      "src": "/assets/images/books.avif",
-      "alt": "Analysis on \"A Day in the Life of Kubo the Novelist\" thumbnail image."
-    },
-    "showTitleOverlay": false
-  },
-  "Book_3": {
-    "title": "Book 3",
-    "author": "Han Trio",
-    "publishDate": "13/10/2012",
-    "img": {
-      "src": "/docs/Book_3/images/thumbnail.png",
-      "alt": "Image of old korean books with yellowed pages."
+      "src": "/docs/Walking_Through_1930s_Korea_with_A_Day_in_the_Life_of_Kubo_the_Novelist/images/thumbnail.png",
+      "alt": "Image of old Korea's Currency Museum building."
     },
     "showTitleOverlay": false
   }
