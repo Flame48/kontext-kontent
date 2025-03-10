@@ -1,0 +1,454 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/parser/document_content_schema.json",
+  "id": "Wanderings_Gubo_-_A_Portrait_of_Gyeongseong_Lost_Youth",
+  "title": "Wanderings Gubo - A Portrait of Gyeongseong Lost Youth",
+  "elements": [
+    {
+      "elements": [
+        {
+          "content": "Gubo\u2019s Wanderings:",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "A Portrait of Gyeongseong\u2019s Lost Youth",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Wanderings_Gubo_-_A_Portrait_of_Gyeongseong_Lost_Youth/images/image3.jpg",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Source: Korea Copyright Commission; Public Domain",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "The Search for Happiness in a City on the Move",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Leaving the department store, Gubo wonders where he might find happiness. He walks aimlessly until, without realizing it, he finds himself standing in a safety zone. Looking down, he sees a walking stick in one hand and a notebook in the other\u2014but, of course, happiness is not to be found there.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "People wait in the safety zone for the tram to arrive. To them, happiness is unknowable, yet at least they have destinations to reach. The tram arrives. People disembark, others step aboard. Gubo stands there, momentarily lost in thought. Watching all the passengers board and leave, he suddenly feels a deep loneliness, an aching sense of isolation. Impulsively, he jumps onto the moving tram.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "elements": [
+        {
+          "content": "After leaving the department store, Gubo finds himself at the tram stop, contemplating where he might discover happiness. He observes the passengers, those stepping off and those stepping on, until he suddenly realizes he is the only one left behind. This realization evokes a pang of loneliness, prompting him to hop onto the tram.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "If you have sharp eyes, you might recognize this tram from the images shown earlier. I deliberately chose images that clearly capture the tram\u2019s presence because I wanted to highlight this part of the novel.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "This tram has a long history, operating from 1899 until the 1960s. It ran through four different political eras: the Korean Empire, the Japanese colonial period, the U.S. military government, and finally, the Republic of Korea. Readers from cities with extensive subway systems, such as New York or present-day Seoul, might find it difficult to visualize how Gubo moves through the city, how he boards the tram mid-journey, and how he observes the landscape from inside.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "The tram in question was a type of streetcar, running along tracks laid directly on city roads. Much like modern buses, it stopped at designated points along the road, allowing passengers to board and disembark. Unlike today\u2019s subway system in Seoul, which has long replaced the tram, these streetcars offered a unique vantage point to experience the cityscape. One can imagine how beautiful the view of 1930s Gyeongseong (present-day Seoul) must have been from such a perspective.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Wanderings_Gubo_-_A_Portrait_of_Gyeongseong_Lost_Youth/images/image1.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\"The Operating 'Seoul Tram' in the Past",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\u00a9Naewoe Broadcasting\"",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Inside the Tram: A Moment of Reflection",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Once inside, Gubo finds himself without a seat. The last remaining one has been taken by a young woman who boarded just a step ahead of him. He stands near the conductor\u2019s platform, wondering how far he should take this Dongdaemun-bound tram. Where exactly is happiness waiting for him?",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Now, the tram turns past Dongdaemun, heading toward Gyeongseong Stadium\u2026 Gubo gazes at the driver\u2019s cabin, at the window pane lined with blue velvet.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Lost in thought, he wonders if happiness is something he has already missed his chance to find. The stream-of-consciousness narration here is particularly striking to me. Without explicitly mentioning concepts like \u201chappiness\u201d or \u201canxiety,\u201d the passage conveys an uncertain, floating sensation in a way that is almost impossible to articulate with words. As the saying goes, seeing is believing\u2014so let\u2019s read the passage directly.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\u201cTicket, please.\u201d The conductor approaches Gubo. He shifts his walking stick to his left arm and reaches into his trouser pocket. Just as he pulls out five coins, the tram stops in front of Jongmyo Shrine, and the conductor returns to his post before collecting Gubo\u2019s fare.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Gubo looks down at the five coins in his palm. Coincidentally, all are flipped upside down. Taish\u014d 12, 11, 11, 8, 12\u2026 Taish\u014d 54. Gubo tries to derive some meaning from these numbers, but it is a futile effort. And even if they did hold some kind of significance, they certainly would not represent happiness.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "elements": [
+        {
+          "content": "What I love about this scene is the mention of the dates inscribed on the coins: Taish\u014d 12, 11, 11, 8, 12\u2026 Taish\u014d 54. The Taish\u014d era was the Japanese imperial calendar system in use during Japan\u2019s colonial rule over Korea. Traditionally, each emperor's reign determined a new era name, and the first year of that reign was called \u201cYear 1.\u201d When the emperor died or abdicated, a new era name would begin. To put this into context, the Gregorian calendar we use today follows the Anno Domini (A.D.) system, where the birth of Jesus Christ marks Year 1, and the current year, 2025, represents 2025 years since that event. Similarly, \u201cTaish\u014d 12\u201d means the 12th year of Emperor Taish\u014d\u2019s reign\u20141923 in the Gregorian calendar. The other coins are from different years in that era.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "However, let\u2019s look at the final coin: Taish\u014d 54. How could any monarch from the early 20th century rule for 54 years? The Taish\u014d emperor, who began his reign in 1912, passed away in 1926. By that logic, \u201cTaish\u014d 54\u201d would correspond to 1965\u2014decades beyond the actual span of the Taish\u014d era. Since this novel was published in 1934, \u201cTaish\u014d 54\u201d represents an impossible, unreal future\u2014a future that will never come to pass.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Despite my lengthy explanation, what makes this passage so effective is how naturally it embeds this sense of unease into the reader\u2019s subconscious. Without overtly stating it, the passage leaves an impression of an eerie, out-of-place number, reinforcing Gubo\u2019s underlying sense of uncertainty and disquiet. Through this subtle detail, the reader instinctively feels the same anxiety\u2014an ambiguous, gnawing worry about an unknowable future.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\uad6c\ubcf4\uac00 \uc5ec\uc790 \ud3b8\uc73c\ub85c \ub208\uc744 \uc8fc\uc5c8\uc744 \ub54c, \uadf8\ub7ec\ub098 \uc5ec\uc790\ub294 \uc790\ub9ac\uc5d0\uc11c \uc77c\uc5b4\ub098 \uc591\uc0b0\uc744 \ub4e4\uace0 \ucc28\uac00 \ub3d9\ub300\ubb38 \uc55e\uc5d0 \uc815\ub958\ud558\uae30\ub97c \uae30\ub2e4\ub9ac\uc5b4 \ub0b4\ub824\uac14\ub2e4. \uad6c\ubcf4\uc758 \ub9c8\uc74c\uc740 \ub610 \ud55c \ubc88 \ub3d9\uc694\ud558\uba70, \ucc3d \ub108\uba38\ub85c \uc5ec\uc790\uac00 \uccad\ub7c9\ub9ac\ud589 \uc804\ucc28\ub97c \uae30\ub2e4\ub9ac\ub290\ub77c, \uadf8 \uc18d \uc548\uc804\uc9c0\ub300\ub85c \uac00 \uc11c\ub294 \uac83\uc744 \ubcf4\uc558\uc744 \ub54c, \uadf8\ub294 \uc790\uae30\ub3c4 \ucc28\uc5d0\uc11c \uace7 \ub0b4\ub9ac\uace0 \uc2f6\uc740 \ucda9\ub3d9\uc744 \ub290\uaf08\ub2e4. \uadf8\ub7ec\ub098 \uc5ec\uc790\uac00 \uccad\ub7c9\ub9ac\ud589 \uc804\ucc28 \uc18d\uc5d0\uc11c \uc790\uae30\ub97c \ub610 \ud55c \ubc88 \ubc1c\uacac\ud558\uace0 \uadf8\ub9ac\uace0 \uc790\uae30\uac00 \uc77c\ub3c4 \uc5c6\uac74\ub9cc, \uc624\uc9c1 \uc5ec\uc790\uc640\uc758 \uc0ac\uc774\uc5d0 \uc5b4\ub5a0\ud55c \uae30\ud68c\ub97c \uc5ff\ubcf4\uae30 \uc704\ud558\uc5ec \uadf8 \ucc28\ub97c \ud0c4 \uac83\uc5d0 \ud2c0\ub9bc\uc5c6\ub2e4\ub294 \uac83\uc744 \ub208\uce58\ucc4c \ub54c, \uc5ec\uc790\ub294 \uadf8\ub7ec\ud55c \uc790\uae30\ub97c \uc5bc\ub9c8\ub098 \ucc9c\ubc15\ud558\uac8c \uc0dd\uac01\ud560\uae4c. \uadf8\ub798, \uad6c\ubcf4\uac00 \ub9dd\uc124\uac70\ub9ac\ub294 \ub3d9\uc548, \uc804\ucc28\ub294 \ub2ec\ub9ac\uace0, \uadf8\ub4e4\uc758 \uc0ac\uc774\ub294 \uba40\uc5b4\uc84c\ub2e4. \ub9c8\uce68\ub0b4 \uc5ec\uc790\uc758 \ubaa8\uc591\uc774 \uc644\uc804\ud788 \uadf8\uc758 \uc2dc\uc57c\uc5d0\uc11c \ub5a0\ub0ac\uc744 \ub54c, \uad6c\ubcf4\ub294 \uac11\uc790\uae30 \uc544\ucc28, \ud558\uace0 \ub258\uc6b0\uce5c\ub2e4.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "At that moment, Gubo glances toward the woman seated nearby. But just as he does, she stands up, picks up her parasol, and prepares to disembark at the Dongdaemun stop. His heart stirs once again as he watches her step onto the safety zone to wait for a tram to Cheongnyangni. He suddenly feels an urge to disembark as well. However, he hesitates. If she sees him stepping off and boarding the next tram, wouldn\u2019t she assume he was following her, watching for an opportunity to approach her? Wouldn\u2019t she think of him as a vulgar, intrusive man?",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "So he hesitates, and in that brief moment of indecision, the tram moves on. The distance between them grows. Eventually, she disappears from his sight entirely. At that instant, Gubo is struck with a sharp pang of regret.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Happiness",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Perhaps the happiness he so desperately sought had just vanished with her. Perhaps she had carried with her the happiness she was meant to offer him, hoping he would take a step forward and reach out to her. Why hadn\u2019t he been bolder? Gubo mentally lists all the beautiful qualities she possessed. And then, he wonders\u2014if not her, could there still be another person who might promise him happiness?",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Wanderings_Gubo_-_A_Portrait_of_Gyeongseong_Lost_Youth/images/image2.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\"Joseon Bank. It is now used as the Bank of Korea's Currency Museum building.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\u00a9Bank of Korea\"",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": ".",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "The Price of Happiness",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "As Gubo stepped off the tram in front of the Joseon Bank, he set off toward Jangkokcheon Pavilion. Exhausted from his thoughts, he decided that stopping by a tea house for a cup of black tea was the most reasonable course of action.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "What time was it? He had no watch. If he were to own one, he would prefer an elegant pocket watch. A wristwatch\u2014such things suited a young girl\u2019s fancy. This thought led him to recall a young girl who had longed for a wristwatch. She had been eyeing an eighteen-karat gold wristwatch displayed at a pawnshop in her neighborhood. It was priced at four won and eighty jeon. And beyond that watch, she had dreamed of wearing a skirt. She believed that if she could afford a skirt along with the watch, she would reach the pinnacle of happiness.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "A voile skirt, woven from Bemberg silk\u2014three won and sixty jeon. In total, eight won and forty jeon would have secured her complete happiness. But Gubo had never heard whether her modest desire had ever been fulfilled.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "He pondered to himself, how much would he need to attain happiness?",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Stepping off the tram in front of the Joseon Bank, Gubo began contemplating his own definition of happiness. He thought of the young girl who equated happiness with a wristwatch and a skirt. If only she had enough money, she would have been happy. And yet, he wondered, how much would he need to be happy?",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "The Joseon Bank where Gubo disembarked had served as the central bank of colonial Korea under Japanese rule. Over time, it expanded its reach, establishing branches in Japan, Manchuria, and China, operating as a general commercial bank while driving investments and economic growth. This area, like Jongno, was a financial and commercial hub of Gyeongseong (colonial Seoul). Nearby was Honmachi, a district populated predominantly by wealthy Japanese residents. From here, Gubo set off toward a tea house, intending to meet a friend.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Wanderings_Gubo_-_A_Portrait_of_Gyeongseong_Lost_Youth/images/image4.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Wanderings_Gubo_-_A_Portrait_of_Gyeongseong_Lost_Youth/images/image5.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\"On the left is a photo presumed to be of the teahouse 'Nakrangpara' mentioned here, and on the right is an illustration from the novel.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Left \u00a9Mailly Right \u00a9Chosun Ilbo\"",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "Left \u00a9Mailly Right \u00a9Chosun Ilbo\"",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    }
+  ],
+  "banner": {
+    "src": "/docs/Wanderings_Gubo_-_A_Portrait_of_Gyeongseong_Lost_Youth/images/banner.png",
+    "alt": "Image of an main character of the book.",
+    "type": "image"
+  },
+  "metadata": {}
+}
