@@ -38,5 +38,15 @@
       "alt": "Image of Seoul Station Gyeongui-Jungang Line terminal"
     },
     "showTitleOverlay": false
+  },
+  "Korean_Phonology_and_Foreign_Word_Transcription": {
+    "title": "Korean Phonology and Foreign Word Transcription",
+    "author": "Korean Bible Society (KBS)",
+    "publishDate": 1998,
+    "img": {
+      "src": "/docs/Korean_Phonology_and_Foreign_Word_Transcription/images/thumbnail.png",
+      "alt": "Image of old korean book"
+    },
+    "showTitleOverlay": false
   }
 }

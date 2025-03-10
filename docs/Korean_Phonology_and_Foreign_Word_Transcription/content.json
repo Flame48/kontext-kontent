@@ -1,0 +1,241 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/parser/document_content_schema.json",
+  "id": "Korean_Phonology_and_Foreign_Word_Transcription",
+  "title": "Korean Phonology and Foreign Word Transcription",
+  "elements": [
+    {
+      "elements": [
+        {
+          "content": "Have you ever wondered how Korean speakers perceive and transcribe foreign words? A fascinating example can be found in the way biblical names were rendered in early Korean translations of the Bible. Unlike modern standardized transliterations, these phonetic adaptations were based on how Korean speakers at the time actually heard and reproduced foreign sounds. This phenomenon reveals key aspects of Korean phonology and its interaction with loanword adaptation.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Korean_Phonology_and_Foreign_Word_Transcription/images/image2.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "One of the most distinctive features of early biblical translations in Korean is the way proper names and unit words were transcribed. Consider the following examples from an early Korean translation of the Bible:",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\u201cThen he said to Thomas, \u2018Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe.\u2019 Thomas said to him, \u2018My Lord and my God!\u2019\u201d (John 20:27-28, NIV)",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "\u201cThen he said to Thomas, \u2018Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe.\u2019 Thomas said to him, \u2018My Lord and my God!\u2019\u201d (John 20:27-28, NIV)",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\u201cPeter knocked at the outer entrance, and a servant named Rhoda came to answer the door. When she recognized Peter\u2019s voice, she was so overjoyed she ran back without opening it and exclaimed, \u2018Peter is at the door!\u2019\u201d (Acts 12:13-14, NIV)",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "\u201cPeter knocked at the outer entrance, and a servant named Rhoda came to answer the door. When she recognized Peter\u2019s voice, she was so overjoyed she ran back without opening it and exclaimed, \u2018Peter is at the door!\u2019\u201d (Acts 12:13-14, NIV)",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\u201cThey made the atonement cover of pure gold\u2014two and a half cubits long and a cubit and a half wide. Then they made two cherubim out of hammered gold at the ends of the cover.\u201d (Exodus 37:6-7, NIV)",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "\u201cThey made the atonement cover of pure gold\u2014two and a half cubits long and a cubit and a half wide. Then they made two cherubim out of hammered gold at the ends of the cover.\u201d (Exodus 37:6-7, NIV)",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "In these passages, the names Thomas , Peter , and Cubit appear as \ub3c4\ub9c8 (Doma) , \ubca0\ub4dc\ub85c (Bedro) , and \uaddc\ube57 (Gyubit) , respectively, in early Korean translations. Compared to modern transliterations\u2014 \ud1a0\ub9c8\uc2a4 (Thomas) , \ud398\ud2b8\ub85c\uc2a4 (Petros) , and \ud050\ube57 (Cubit) \u2014there is a clear difference in how these words were adapted. The older versions used \u3137, \u3142, and \u3131 (tense consonants in Korean), whereas modern transcriptions employ \u314c, \u314d, and \u314b (aspirated consonants).",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "This difference arises from a fundamental distinction between Korean and English phonology. In English, the contrast between voiced (e.g., b, d, g) and voiceless (e.g., p, t, k) consonants is phonemically significant, meaning they distinguish words. However, in Korean, this distinction is much less prominent. Instead, Korean speakers primarily differentiate sounds based on aspiration (the strength of the airflow following the consonant), rather than voicing.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "For example, an English-speaking missionary might have pronounced Thomas (/\u02c8t\u0252m\u0259s/) with an unaspirated /t/ at the beginning, which a Korean listener would perceive as closer to \ub3c4 (do) rather than \ud1a0 (to) . Similarly, Peter (/\u02c8pi\u02d0t\u0259r/) and Cubit (/\u02c8kju\u02d0b\u026at/) were transcribed as \ubca0\ub4dc\ub85c (Bedro) and \uaddc\ube57 (Gyubit) , using less aspirated consonants that sounded more natural to native Korean speakers.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Korean_Phonology_and_Foreign_Word_Transcription/images/image1.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "The first Korean Bible. While its transcription differs from the version commonly used in Korean Protestant churches today, its overall tone remains similar.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\u00a9 Christian Newspaper",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Another noticeable pattern in Korean biblical translations is the frequent omission of final consonants in foreign words.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "For instance, Thomas (\ud1a0\ub9c8\uc2a4) appears as \ub3c4\ub9c8 (Doma) and Judas (\uc720\ub2e4\uc2a4) as \uc720\ub2e4 (Yuda) . Similarly, Artemis becomes \uc544\ub370\ubbf8 (Ademi) , and Hermes is transcribed as \ud5c8\uba54 (Home) .",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "This simplification can be attributed to Korean syllable structure constraints . In Korean, only a limited set of consonants ( \u3131, \u3134, \u3137, \u3139, \u3141, \u3142, \u3147 ) can appear at the end of a syllable. Sounds like -s or -r , common in English and Greek, are difficult to pronounce in a Korean phonological framework. Instead of approximating them, early translators simply omitted them.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Additionally, another hypothesis is that these translations might not have been based on nominative case forms but rather on vocative forms of Greek names. In Koine Greek, names like Petros (\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2) or Loukas (\u039b\u03bf\u03c5\u03ba\u1fb6\u03c2) have vocative forms Petre (\u03a0\u03ad\u03c4\u03c1\u03b5) and Louka (\u039b\u03bf\u03c5\u03ba\u1fb6), which naturally lack the final -s. If early Korean translators used these forms, it would explain the absence of the final consonants.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "A particularly intriguing case is the name \ub204\uac00 (Nuga) , which corresponds to Luke (\u039b\u03bf\u03c5\u03ba\u1fb6\u03c2, Lucas). Unlike previous examples, which retained the original word\u2019s consonant structure, Loukas was adapted in a way that aligns with a unique phonological rule in Korean\u2014 the Initial Sound Rule (\ub450\uc74c \ubc95\uce59, Dueum Beopchik).",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "In Korean, word-initial r sounds (\u3139) are often replaced with n (\u3134), particularly in Sino-Korean words. For example, the Chinese-derived word for \u201cdonkey\u201d (\u9a62) was historically pronounced \ub77c\uadc0 (Ragwi) but later changed to \ub098\uadc0 (Nagwi) . Similarly, Lukas (\ub8e8\uce74) may have undergone this transformation, resulting in \ub204\uac00 (Nuga) instead of the expected \ub8e8\uac00 (Luga) .",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Interestingly, this rule does not apply to modern foreign words (e.g., radio is \ub77c\ub514\uc624 , not \ub098\ub514\uc624 ). However, the presence of this pattern in biblical names suggests that the rule was once more rigorously applied, even to foreign loanwords. This showcases how phonological constraints evolve over time and how Korean phonology has changed even within the last two centuries.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "elements": [
+        {
+          "content": "At first glance, the early transcription of biblical names into Korean may seem inconsistent or arbitrary. However, upon closer examination, these adaptations reveal systematic phonological patterns, deeply rooted in how Korean speakers perceive and categorize sounds.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "These historical transcriptions offer a glimpse into not only the phonological nature of the Korean language but also how language adapts over time to accommodate foreign elements. Looking back at these linguistic transformations is not just an academic exercise\u2014it\u2019s a way to appreciate the dynamism of language and its intricate relationship with culture and history.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    }
+  ],
+  "banner": {
+    "src": "/docs/Korean_Phonology_and_Foreign_Word_Transcription/images/banner.png",
+    "alt": "image of a old korean book",
+    "type": "image"
+  },
+  "metadata": {}
+}
