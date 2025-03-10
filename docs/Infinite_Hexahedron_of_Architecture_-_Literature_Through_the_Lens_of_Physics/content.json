@@ -1,0 +1,415 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/parser/document_content_schema.json",
+  "id": "Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics",
+  "title": "Infinite Hexahedron of Architecture - Literature Through the Lens of Physics",
+  "elements": [
+    {
+      "elements": [
+        {
+          "content": "Not long ago, a topic stirred great excitement among Korean literary enthusiasts, drawing attention even from those with little interest in literature. The cause? A research paper analyzing Infinite Hexahedron of Architecture (\uac74\ucd95\ubb34\ud55c\uc721\uba74\uac01\uccb4), a poem by the modernist Korean writer Yi Sang, from an expressive perspective through the lens of physics.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "In essence, the paper interpreted the poem as an attempt to express architecture in four-dimensional space , drawing on Einstein\u2019s theory of relativity . While this idea is fascinating, a thorough understanding requires deep knowledge of spatial geometry and its four-dimensional extensions\u2014concepts far beyond my grasp. As someone who abandoned geometry the moment vectors and three-dimensional shapes appeared in my math class, I must admit defeat. (I still wonder how those gifted in math can visualize 3D structures in their heads. The only math I understand is statistics.)",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics/images/image1.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\u00a9 Encyclopedia of Korean National Culture",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Applying concepts like relativity and four-dimensional space to literary analysis is far from conventional. Few authors would consciously write poetry based on such theories. Yet, how did this interpretation gain such traction and overwhelmingly positive reception? What kind of writer was Yi Sang, that his work could inspire such an analysis?",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "To understand this, let\u2019s take a brief look at Yi Sang\u2019s background.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "elements": [
+        {
+          "content": "Yi Sang was not just a poet and novelist\u2014he was also an architect by profession and, at one point, even operated a caf\u00e9.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Born Kim Hae-gyeong (\uae40\ud574\uacbd) in 1910, he was adopted at the age of three into his uncle\u2019s household. This was a common practice in Joseon society, where lineage was strictly patrilineal. If a family lacked a son to continue its bloodline, they would often adopt a male child from a close relative to ensure the lineage survived. Yi Sang\u2019s adoptive father, following this custom, took in his younger brother\u2019s son.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "From a young age, Yi Sang displayed artistic talent and aspired to be an artist. However, his adoptive parents strongly opposed this, believing that pursuing art would not provide a stable livelihood. Pressured by them, he enrolled in an industrial high school, majoring in architecture, and graduated as the top student in his class. He then entered the workforce as an architectural technician.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Despite his career in architecture, Yi Sang never abandoned his passion for art and literature. In 1930, at just 19 years old, he made his literary debut by serializing his first novel, December 12 (12\uc6d4 12\uc77c), under the pen name Yi Sang in the magazine Joseon . His avant-garde style quickly gained attention, allowing him to connect with prominent literary figures of the time. He published extensively in newspapers and magazines, and at one point, even designed and ran a caf\u00e9 in Gyeongseong (modern-day Seoul), showcasing both his architectural and artistic sensibilities.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "However, his life took a tragic turn. His caf\u00e9 ventures repeatedly failed, his health deteriorated, and by 1936, sensing his impending death, he moved to Tokyo, a city he had long admired. Yet, he found no solace there. His disappointment deepened, and, in an unfortunate twist, he was arrested as a suspicious individual while wandering the streets. Though his imprisonment lasted only a month, his condition worsened significantly. He passed away in Tokyo in 1937 at the young age of 26.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Despite a literary career spanning only seven years, Yi Sang profoundly influenced Korean literature. His works remain central to discussions of Surrealism, Dadaism, and Modernism in Korea. Even those unfamiliar with literature often recognize the iconic opening lines of his short story Wings (\ub0a0\uac1c).",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "With this background in mind, let\u2019s examine a few pieces from his poetry collection Infinite Hexahedron of Architecture (\uac74\ucd95\ubb34\ud55c\uc721\uba74\uac01\uccb4). While the meaning may remain elusive, experiencing the poem firsthand may allow us to feel something beyond mere comprehension.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "elements": [
+        {
+          "content": "Here is the first poem from the series:",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "The rectangle within the rectangle within the rectangle within the rectangle within the rectangle. The rectangle\u2019s elliptical motion, the rectangle\u2019s elliptical motion, the rectangle\u2019s ellipse. A man observing the soap passing through a vein of soap. The globe, modeled after the Earth, the globe, modeled after the Earth. Castrated socks. (That woman\u2019s name was Words.) An anemic cotton pad. Your complexion resembles a sparrow\u2019s leg. A massive weight pushing forward in the direction of a parallelogram\u2019s diagonal. The perfume of Coty, fragrant with the spring of Marseille, welcomes the autumn of the Orient. A Z-white tiger drifting through the clear sky. It says, \u201cRoundworm medicine.\u201d A rooftop garden. A mademoiselle mimicking Yuan Hou. A parabolic trajectory dashing forward in a straight line. Two wet twilights lowered upon the XII of a clock face. The interior of a door, the interior of a door, the interior of a cage, the interior of a canary, the interior of a murder chamber, a greeting. At the entrance of the restaurant, two friends\u2014like male and female\u2014just arrived, only to part. A military boot stomping on a business card. An artificial golden lotus demanding furniture. Up from below and down from above, up from below and down from above\u2014he who neither went up from below nor came down from above, he who neither went up from below nor came down from above. That woman\u2019s lower half resembles that man\u2019s upper half. (I pity the sorrowful reunion, and I am sorrowful.) The rectangular case starts walking. (It is chilling.) A farewell ascending near the radiator. Outside, it is raining. A migration of luminescent fish.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Attempting to decipher this poem is nearly impossible. Interpretations vary wildly, and as a work rooted in Dadaism , Yi Sang himself likely never intended for it to be confined to a rigid, singular meaning. However, what stands out is the repeated imagery of geometric shapes and movement , reflecting his architectural and mathematical mindset.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics/images/image2.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "The Mitsukoshi Department Store Main Branch as Described in the Poem",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Another piece from the same collection provides a different, but equally enigmatic experience:",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "elements": [
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "1 2 3 4 5 6 7 8 9 0\u30fb 1 2 3 4 5 6 7 8 9\u30fb0 1 2 3 4 5 6 7 8\u30fb9 0 1 2 3 4 5 6 7\u30fb8 9 0 1 2 3 4 5 6\u30fb7 8 9 0 1 2 3 4 5\u30fb6 7 8 9 0 1 2 3 4\u30fb5 6 7 8 9 0 1 2 3\u30fb4 5 6 7 8 9 0 1 2\u30fb3 4 5 6 7 8 9 0 1\u30fb2 3 4 5 6 7 8 9 0 \u30fb1 2 3 4 5 6 7 8 9 0 Diagnosis 0 : 1 2 6\u30fb1 0\u30fb1 9 3 1 Chief Physician: Yi Sang",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "This poem, structured like a medical diagnosis, humorously plays on the stereotype that doctors have illegible handwriting. The systematic arrangement of numbers also reflects his technical precision as an architect.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "elements": [
+        {
+          "content": "Beyond their experimental and shocking nature, Yi Sang\u2019s works provided profound inspiration to contemporary artists and writers. Attempting to find a fixed meaning in Dadaist literature may be futile; instead, the significance lies in the impact these works had on artistic movements.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Yi Sang\u2019s poetry, like his life, was brief and enigmatic. Yet, his influence on Korean modernist literature endures, challenging the boundaries of artistic expression even today.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    }
+  ],
+  "banner": {
+    "src": "/docs/Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics/images/banner.png",
+    "alt": "image of the Mitsukoshi Department Store Main Branch",
+    "type": "image"
+  },
+  "metadata": {}
+}
