@@ -28,5 +28,15 @@
       "alt": "Image of old Korea's Currency Museum building."
     },
     "showTitleOverlay": false
+  },
+  "Lost_in_the_Crowd_-_The_Isolation_of_Modern_Gyeongseong": {
+    "title": "Lost in the Crowd - The Isolation of Modern Gyeongseong",
+    "author": "Pak Taewon",
+    "publishDate": "7/12/1938",
+    "img": {
+      "src": "/docs/Lost_in_the_Crowd_-_The_Isolation_of_Modern_Gyeongseong/images/thumbnail.png",
+      "alt": "Image of Seoul Station Gyeongui-Jungang Line terminal"
+    },
+    "showTitleOverlay": false
   }
 }

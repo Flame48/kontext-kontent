@@ -1,0 +1,443 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/parser/document_content_schema.json",
+  "id": "Lost_in_the_Crowd_-_The_Isolation_of_Modern_Gyeongseong",
+  "title": "Lost in the Crowd - The Isolation of Modern Gyeongseong",
+  "elements": [
+    {
+      "elements": [
+        {
+          "content": "Lost in the Crowd: The Isolation of Modern Gyeongseong",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "The Caf\u00e9 and the Youth of the City",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "At two in the afternoon, those without work gathered at the caf\u00e9. They sat on chairs, drinking tea, smoking cigarettes, conversing, and listening to records. Most of them were young, yet despite their youth, they carried themselves as if they were already weary of life. Their eyes, starved of light and uneven in glow, ceaselessly conveyed their individual melancholy and exhaustion. Occasionally, brisk footsteps and bursts of laughter would intrude upon the caf\u00e9\u2019s subdued atmosphere. Yet, such sounds did not belong here. More than anything, the caf\u00e9\u2019s regulars scorned such intrusions.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Through the setting of this caf\u00e9, scholars of Korean literature have identified it as \u2018Nakrang Para,\u2019 a real-life establishment that operated during the Japanese colonial period. The writer Park Taewon and many other literary figures frequently visited this very place, lending credibility to this inference. The caf\u00e9 offered a variety of beverages, including soda water and Calpis\u2014a Japanese soft drink still available today. Notably, in the novel\u2019s original text, these beverages are transcribed phonetically from their Japanese pronunciations, \u2018sodasui\u2019 and \u2018karupisu,\u2019 subtly reflecting the colonial-era linguistic influences.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "The caf\u00e9, an exotic two-story building, stood as a cultural nexus of Korean modernist literature and a trendy gathering place for intellectuals of the time.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "At the caf\u00e9, Gubo intended to meet his friend, but he instead encountered a stranger. The stranger recognized him, though Gubo did not know this man. Awkward and timid by nature, Gubo found the encounter unbearable and hastily left the caf\u00e9.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Lost_in_the_Crowd_-_The_Isolation_of_Modern_Gyeongseong/images/image1.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\"Gyeongseong Station, now used as the Seoul Station Gyeongui-Jungang Line terminal.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\u00a9 Monthly Magazine Seoul Sarang \"",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Lost Among the Crowds",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Seeking a small moment of joy, Gubo decided to step beyond Namdaemun\u2019s gates. Yet, upon arrival, he was greeted by a lifeless scene: three or four porters slumped against the wall, motionless, without even the energy to fight off the wind.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Gubo felt lonely. He yearned for places filled with people, for the vibrancy of the city. Looking ahead, he saw Gyeongseong Station. Surely, there, he would find life. There, he would witness the very breath and emotions of this old city. If an urban novelist were to exist, they must be intimately familiar with this gateway of the metropolis. However, such professional awareness meant little to Gubo. All he wished for was to escape his solitude in the crowd of the station\u2019s third-class waiting room.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Yet, ironically, loneliness lingered there too. The waiting room was packed to the brim, leaving no space for him to squeeze into a seat. Even with so many people gathered, there was no conversation, only individuals lost in their own concerns. When they did speak, it was only to ask about train schedules. None of them would entrust their belongings to a stranger while stepping away, even for a moment. Their mistrustful eyes were pitiful and weary.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Traditionally, Korean society had been agricultural, where most residents of a village knew one another, linked by familial or communal ties. To Gubo, the stark contrast in the city\u2014the absence of familiarity, the lack of trust among strangers\u2014signaled the erosion of the past. The modern world had grown cold, and its people lonelier.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Even today, Gyeongseong Station, now known as Seoul Station, remains a major transit hub. However, during the early 20th century, it was the very center of Korea\u2019s rapid modernization. The dissolution of traditional rural communities forced many into cities, seeking work in unfamiliar surroundings. Others pursued fortune in the gold mines, drawn by the dream of instant wealth, much like the speculative investments of today. The station, serving as the gateway to these uncertain futures, embodied the disintegration of old society and the emergence of a new, disconnected urban life.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Leaving the waiting room, Gubo hesitated, unsure of his next destination. Eventually, he decided to return to the caf\u00e9 to seek out his friend. This time, he called ahead, pleading, \u2018Please, come quickly.\u2019",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Lost_in_the_Crowd_-_The_Isolation_of_Modern_Gyeongseong/images/image3.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\"An illustration drawn by the author himself, depicting a scene of calling a puppy.\"",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "A Fleeting Connection",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Back at the caf\u00e9, the crowd had thinned. He scanned the room, but the acquaintance he had encountered earlier was nowhere in sight. Finding a seat near the counter, he immersed himself in the sound of \u2018Ay Ay Ay\u2019 by Skipper, one of his favorite records. For a brief moment, he felt a fondness for this caf\u00e9.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "If it were permitted, he would have replaced his stiff wooden chair with a plush armchair and indulged in a gentle afternoon nap. Even the shoe polish vendor, whom he had previously found an irritant, now seemed tolerable.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "A small puppy wandered through the caf\u00e9. It licked the tip of a man\u2019s shoe as he ate toast. Irritated, the man pulled his foot away and shooed the dog. Undeterred, the puppy wagged its tail and briefly looked up at the man\u2019s face before trotting off to the next table.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Gubo, watching this, felt sympathy for the little dog. He wanted to prove that at least one person in this caf\u00e9 would show it kindness. But when he called it over, it did not respond. And when he reached out to pet it, the dog recoiled and barked, as if wary of him. Frustration and disappointment welled up within him.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Eventually, his long-awaited friend arrived. They talked about writing, and the friend lamented how his literary aspirations had been stifled by his job at the newspaper, where he was forced to report on murders, robberies, and arson instead of poetry and fiction. Their conversation, filled with lingering creative frustration, continued late into the night. Then, as trams stopped running, his friend departed.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Gubo, now alone, aimlessly wandered the city. He stopped by another tea house run by a different acquaintance, seeking a way to pass the time.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Yet, upon arrival, the owner was not there. A child inside told him, \u2018They\u2019ll be back soon. If someone comes, please wait for them.\u2019",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Perhaps this \u2018someone\u2019 was a specific person. Perhaps his friend could no longer accompany him through the evening. But people must always hold on to hope. Having no other company, Gubo decided to sit and wait.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Lost_in_the_Crowd_-_The_Isolation_of_Modern_Gyeongseong/images/image2.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "I could not find a photograph, so I have substituted it with a recreated image of a teahouse from the drama Yi Sang, Beyond Yi Sang",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "A Solitary Evening in Gyeongseong",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "With whom should I spend this twilight? Gubo, nearly assured, begins to walk. He has a companion. A friend with whom he can share this evening, this night. Passing by the Jongno Police Station, he enters a small, flat-roofed teahouse.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "But the owner is absent. As Gubo turns back toward the door, regretting not arranging a meeting in advance, a child speaks as if recalling something: \"Oh, they'll be back soon. If someone comes, please wait for them.\" Perhaps this \"someone\" is a particular individual. Perhaps this friend will no longer walk alongside Gubo. But people must always hold onto hope. With no other companion to seek out, Gubo decides to sit and wait for his friend\u2019s return.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "(\u2026) The teahouse owner returns. \"Ah, when did you arrive? Have you been waiting long? Any good news?\" Gubo, without answering, stands, picks up his notebook and cane, and says, \"Let\u2019s go for dinner.\" And inwardly, he continues reflecting on the small romance of his past.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "For those interested in modern Korean literature, the mention of \"Gubo\u2019s friend\u2019s teahouse\" naturally brings to mind Yi Sang, the renowned poet and writer, as well as a close friend of Bak Tae-won. Yi Sang also worked as an architect and personally built and managed the teahouse \"Jebi.\" Perhaps this is the very teahouse Gubo visits.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Yi Sang was infamous for his complex prose and poetry. His serialized poems in newspapers were so bewildering that they were met with public criticism, forcing an early termination of their publication. Readers dismissed them as \"nonsensical\" and questioned if they could even be called poetry. Given that Bak Tae-won\u2019s works also tend to be dense and intricate, it seems the saying \"friends grow alike\" holds some truth.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Later, Gubo and his friend leave the teahouse (the fact that the owner was absent at first, then simply left with the friend upon returning, might explain why Yi Sang\u2019s \"Jebi\" teahouse did not last long). They wander through Gyeongseong, stopping at another caf\u00e9 for coffee. They converse with the staff and eventually, Gubo playfully asks a waitress on a date. If she agrees, she should mark an O on the paper; otherwise, an X. If it\u2019s an O, they should meet at the Hwashin Department Store. It\u2019s a lighthearted, almost careless proposition, lacking genuine seriousness.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "They spend the night together, roaming the city until 2 AM, parting ways with encouragement to write great works. But what became of the proposed date?",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "\"Gubo\u2014\"",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "His friend suddenly calls out to him again. \"Let me see what mark she left in your notebook.\" Gubo pulls out his notebook from his inner pocket, finding a large and unmistakable X. Smiling bitterly, he turns to his friend and says, \"I suppose there\u2019s no need to go to the rooftop of Hwashin Department Store tomorrow at noon.\" However, Gubo does not feel disappointment. Even if it had been an O, he would not have felt joy either. Perhaps, at this moment, Gubo is more concerned with his mother\u2019s happiness than his own. Perhaps, this thought occupies him now.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "With slightly quickened steps, he walks home through the city, lightly drizzled with rain.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Perhaps, when his mother brings up the topic of marriage again, Gubo will no longer refuse her wishes so easily.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "He was rejected. But isn\u2019t life just like that?",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "While the flow and content of the story may interest scholars of Korean literature, what I found most compelling was the vivid portrayal of Gyeongseong itself. I structured this summary around key locations to highlight these descriptions. Hopefully, readers find it engaging as well. At the very least, I enjoyed writing it, and that, perhaps, is enough. There may be more to say, but for now, I should wrap things up and return to my work.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    }
+  ],
+  "banner": {
+    "src": "/docs/Lost_in_the_Crowd_-_The_Isolation_of_Modern_Gyeongseong/images/banner.png",
+    "alt": "image of a teahouse from the drama Yi Sang, Beyond Yi Sang",
+    "type": "image"
+  },
+  "metadata": {}
+}
