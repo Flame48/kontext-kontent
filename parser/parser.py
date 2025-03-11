@@ -386,7 +386,6 @@ if __name__ == '__main__':
 # >- GET FROM USER ----------------------< #
   user_inp: Dict|List = getUserInput('./parser/parse_config.yaml')
 # >--------------------------------------< #
-
   if isinstance(user_inp, list):
     for i, inp in enumerate(user_inp):
       print(f"# Parsing input {i}:")
