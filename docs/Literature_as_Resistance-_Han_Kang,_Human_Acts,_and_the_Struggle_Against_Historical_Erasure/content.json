@@ -1,0 +1,118 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/parser/document_content_schema.json",
+  "id": "Literature_as_Resistance-_Han_Kang,_Human_Acts,_and_the_Struggle_Against_Historical_Erasure",
+  "title": "Literature as Resistance- Han Kang, Human Acts, and the Struggle Against Historical Erasure",
+  "elements": [
+    {
+      "elements": [
+        {
+          "content": "Han Kang, who gained worldwide recognition after winning the Nobel Prize, had already been highly regarded in South Korea\u2019s literary circles. However, becoming the second South Korean to receive the prestigious award elevated her name beyond literary enthusiasts, making her known even to those previously uninterested in literature.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Despite her achievements, South Korea has a regrettable history of political figures labeling Han Kang as a \"communist\" or an \"anti-state force.\" Around a decade ago, during the presidency of Park Geun-hye\u2014the daughter of a dictator who seized power through a military coup\u2014Han Kang was secretly blacklisted by the government. The reason? A single book: Human Acts . This novel, celebrated both domestically and internationally, was enough to provoke political backlash. To understand why, we must explore its historical and political context.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Set in 1980 South Korea, Human Acts portrays a period of extreme turmoil. Nearly two decades earlier, in 1961, Park Chung-hee had staged a coup, claiming to restore stability, and ruled as a dictator until he was abruptly assassinated by one of his closest aides. His sudden death exposed the fragility of a regime built on a single leader\u2019s charisma. In the political vacuum, a new president was elected through legal procedures, and martial law was declared. However, unlike Park, the new leader lacked the same authoritative presence, leading to an imbalance of power.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Sensing this instability, General Chun Doo-hwan\u2014then the Martial Law Commander\u2014used his position not to stabilize the country, but to secure his own power. He mobilized military forces and staged a coup, successfully overthrowing the newly appointed president. His key political rival, the Army Chief of Staff, was falsely accused of participating in Park\u2019s assassination, demoted to a private, and dishonorably discharged. Chun eventually positioned himself as South Korea\u2019s next leader.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "During this transition, protests erupted in Gwangju, a major city in the country\u2019s southern region. Citizens, refusing to recognize the legitimacy of Chun\u2019s coup, demanded the removal of the rebel forces. However, Chun had already consolidated his control over the military and had trained special forces extensively for riot suppression, conditioning them to view protesters as enemies of the state. These elite airborne troops were deployed to Gwangju, where they not only suppressed demonstrators with extreme violence but also deliberately massacred civilians who were uninvolved in the protests.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "For years, the truth about the Gwangju Uprising remained suppressed under Chun\u2019s authoritarian regime. It was only after sustained nationwide resistance that the dictatorship collapsed and the atrocities came to light.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Despite the fall of Chun\u2019s regime, his political influence did not vanish. His party remained intact, and his close ally, General Roh Tae-woo\u2014who had co-orchestrated the coup\u2014was elected as South Korea\u2019s first president after democratization. Due to internal divisions within the pro-democracy movement, Roh managed to win with only 30% of the vote. The remnants of the dictatorship strategically incorporated former democracy activists into their party, blurring ideological lines and ensuring their political survival. This party eventually evolved into South Korea\u2019s current mainstream conservative party, People Power Party .",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Given this historical context, it is evident why Human Acts is such a politically sensitive work. Although the party has since distanced itself from its origins\u2014incorporating figures from both ends of the political spectrum\u2014the core leadership remains deeply connected to those who benefited from the dictatorship. Even today, certain politicians within the party attempt to rewrite history, absurdly justifying Chun\u2019s massacre in Gwangju as a necessary act to suppress an \u201carmed rebellion.\u201d",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Park Geun-hye, the daughter of the former dictator Park Chung-hee, belonged to this very party. It appears that, to her, criticism of Chun Doo-hwan\u2019s regime felt like an attack on her own authority. The decision to blacklist Han Kang was a blatant violation of free expression\u2014an act of censorship that has no place in a democratic society. Human Acts was not written to target any political faction, but to document the voices of innocent citizens who suffered under state violence. Yet, for a government seeking to erase its dark past, the book posed a direct threat.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "History has consistently proven that dictatorships ultimately collapse under their own weight. Park Chung-hee, desperate to maintain his grip on power, met his demise at the hands of his own intelligence chief. Chun Doo-hwan, too, could not escape the downfall of his authoritarian rule. Even Park Geun-hye\u2019s administration, which sought to reverse democratic progress, was impeached and removed by the will of the people.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Dictatorships may appear invincible for a time, but they cannot withstand the relentless force of truth and justice. Han Kang\u2019s Human Acts stands as a testament to this fact\u2014a literary record that ensures history is never forgotten. As long as such works remain, the mistakes of the past will not be repeated.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    }
+  ],
+  "metadata": {}
+}
