@@ -85,6 +85,33 @@
     },
     {
       "elements": [
+        [
+          {
+            "content": "If you wish to appreciate the beauty of literary expression, I recommend reading works set in the 2000s and beyond. Since these stories are grounded in a contemporary setting, they are easier to understand without extensive background knowledge, making it more accessible to grasp the author\u2019s intended message.",
+            "type": "text",
+            "format": []
+          }
+        ],
+        [
+          {
+            "content": "If you want to experience literature that is politically engaged and resistant to oppression, read works from the 1950s to the 1980s, particularly those from the 1980s. This was a time of extreme dictatorship when military forces completely controlled the government. However, as the economy grew and education levels rose, public criticism of authoritarian rule intensified. Understanding Korea\u2019s history of dictatorship before reading these works can greatly enhance the reading experience.",
+            "type": "text",
+            "format": []
+          }
+        ],
+        [
+          {
+            "content": "If you are looking for literature that is both romantic and melancholic yet deeply somber, I recommend works from the 1920s to the 1970s. This era spans from the Japanese colonial period to the Park Chung-hee dictatorship, during which the traditional agrarian society collapsed, and rapid urbanization and industrialization reshaped the country. As old communities and cultural norms disappeared, many literary works reflected this sense of loss and transformation. At the same time, the absence of social welfare systems left many people marginalized, struggling with poverty and death, themes that are vividly captured in the literature of this period.",
+            "type": "text",
+            "format": []
+          }
+        ]
+      ],
+      "type": "list",
+      "ordered": false
+    },
+    {
+      "elements": [
         {
           "content": "Korean literature has developed amid rapid societal changes, incorporating diverse social, cultural, and historical elements along the way. Simply reading a literary work is valuable in itself, but understanding the era in which it was written and the atmosphere of that time can lead to a much richer reading experience. By following the evolution of literature across different periods, one can trace the path of Korean society and deeply empathize with the struggles and emotions of those who lived through its history. Literature is not just fiction\u2014it is a mirror that reflects the times and a lens through which we can better understand ourselves.",
           "type": "text",

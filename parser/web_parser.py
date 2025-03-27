@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 from parser_datatypes import *
 
 API_ROOT_URL = "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/api/"
+verbose: bool = False
 
 def getSoup(fp: str) -> BeautifulSoup:
   with open(fp, 'r', encoding='utf-8') as f:
@@ -73,6 +74,10 @@ def mergeText(nst: List[Dict]) -> List[Dict]:
     else:
       if len(txtToAdd['content']) != 0:
         toRet.append(txtToAdd)
+        txtToAdd = {
+          'type': 'text',
+          'content': '',
+        }
       if ('children' in tg):
         tg['children'] = mergeText(tg['children'])
       toRet.append(tg)
@@ -164,6 +169,12 @@ def natify(nst: List[Dict]|Dict) -> List[Union["Section", Paragraph]]|Any:
         return Text(c['content'])
       case 'hr':
         return Hr()
+      case 'ul'|'ol':
+        return Doc_List(natify(c['children']), ordered=(c['type']=='ol'))
+      case 'li':
+        return natify(c['children'])
+      case _:
+        if verbose: print(f"Unmapped tag [{c['type']}]")
     return
   
   toRet: List[Union["Section", Paragraph]] = []
@@ -181,7 +192,12 @@ def natify(nst: List[Dict]|Dict) -> List[Union["Section", Paragraph]]|Any:
         toRet.append(Text(c['content']))
       case 'hr':
         toRet.append(Hr())
+      case 'ul'|'ol':
+        toRet.append(Doc_List(natify(c['children']), ordered=(c['type']=='ol')))
+      case 'li':
+        toRet.append(natify(c['children']))
       case _:
+        if verbose: print(f"Unmapped tag [{c['type']}]")
         continue
         # raise KeyError(f"Invalid Key {c['type']}")
   return toRet
@@ -241,3 +257,15 @@ def get_doc_id(page_title: str) -> str:
   doc_id = re.sub(r'[\\/*?:"<>|#%]', "", doc_id)
   doc_id = doc_id.strip(' .')
   return doc_id
+
+if __name__ == '__main__':
+  verbose = True
+  testDirPath: str = "C:\\Users\\advai\\Downloads\\Reflection"
+  page_title: str = "Reflections"
+  html_path, image_path, _, _ = getPaths(testDirPath)
+  native = parse(html_path)
+  doc_id = get_doc_id(page_title)
+  final = Document(doc_id, page_title, native)
+  
+  with open("./parser/debug_out.json", "w") as of:
+    json.dump(asdict(final), of, indent=2)

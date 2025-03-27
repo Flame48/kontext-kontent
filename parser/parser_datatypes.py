@@ -47,5 +47,11 @@ class Document:
   banner: Optional[Image] = None
   metadata: Dict = field(default_factory=dict)
 
+@dataclass
+class Doc_List:
+  elements: List[Union[Paragraph, "Doc_List"]]
+  type: str = "list"
+  ordered: Optional[bool] = False
+
 def asdict(dc) -> Dict:
   return dataclasses.asdict(dc, dict_factory=lambda x: {k: v for (k, v) in x if v is not None})
