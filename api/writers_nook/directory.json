@@ -1,24 +1,19 @@
 {
   "items": {
-    "TitleA": {
-      "title": "How I did it",
-      "author": "Arit",
-      "publishDate": "02/05/2025",
-      "tags": ["analysis", "howto", "writing"],
-      "references": [
-        {
-          "type": "analysis",
-          "id": "Analysis_on_The_Vegetarian"
-        }
+    "Reflection_of_History_and_Society_in_Korean_Literature": {
+      "title": "Reflection of History and Society in Korean Literature",
+      "author": "Team Kontext",
+      "publishDate": "27/03/2025",
+      "tags": [
+        "research",
+        "history",
+        "advice"
       ]
-    },
-    "TitleB": {
-      "title": "My favorite Ice Cream!",
-      "author": "Jip",
-      "publishDate": "22/12/2024",
-      "tags": ["personal"],
-      "references": []
     }
   },
-  "tags": ["analysis", "howto", "personal", "writing"]
+  "tags": [
+    "history",
+    "advice",
+    "research"
+  ]
 }

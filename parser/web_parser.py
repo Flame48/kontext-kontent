@@ -225,3 +225,19 @@ def getPaths(dirPath: str) -> Tuple[str, str|None, str|None, str|None]:
     raise IOError("Html page not found in given directory.")
   
   return html_path, image_path, thumbnail_filepath, banner_filepath
+
+def parse(html_path: str) -> List[Section | Paragraph]:
+  soup: BeautifulSoup = getSoup(html_path)
+  de_spanned = resolveSpans(nest(soup))
+  m_text = mergeText(de_spanned)
+  rem_empty = list(filter(isNonEmpty, m_text))
+  
+  sectioned = sectionate(rem_empty, 1)
+  native: List[Section | Paragraph] = natify(sectioned)
+  return native
+
+def get_doc_id(page_title: str) -> str:
+  doc_id: str = page_title.replace(" ", "_")
+  doc_id = re.sub(r'[\\/*?:"<>|#%]', "", doc_id)
+  doc_id = doc_id.strip(' .')
+  return doc_id
