@@ -1,0 +1,24 @@
+{
+  "items": {
+    "TitleA": {
+      "title": "How I did it",
+      "author": "Arit",
+      "publishDate": "02/05/2025",
+      "tags": ["analysis", "howto", "writing"],
+      "references": [
+        {
+          "type": "analysis",
+          "id": "Analysis_on_The_Vegetarian"
+        }
+      ]
+    },
+    "TitleB": {
+      "title": "My favorite Ice Cream!",
+      "author": "Jip",
+      "publishDate": "22/12/2024",
+      "tags": ["personal"],
+      "references": []
+    }
+  },
+  "tags": ["analysis", "howto", "personal", "writing"]
+}
