@@ -223,5 +223,3 @@ def book_data_cli(*args, **kwargs):
 
 if __name__ == '__main__':
   book_data_cli()
-  
-  # book_data

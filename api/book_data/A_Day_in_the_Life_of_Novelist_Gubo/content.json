@@ -1,0 +1,78 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/parser/document_content_schema.json",
+  "id": "A_Day_in_the_Life_of_Novelist_Gubo",
+  "title": "A Day in the Life of Novelist Gubo",
+  "elements": [
+    {
+      "elements": [
+        {
+          "content": "A Day in the Life of Novelist Gubo",
+          "type": "text",
+          "format": []
+        },
+        {
+          "content": "By Park Taewon",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Originally published in 1934, A Day in the Life of Novelist Gubo ( \uc18c\uc124\uac00 \uad6c\ubcf4\uc528\uc758 \uc77c\uc77c ) is a seminal work in the canon of Korean modernist literature. Written by Park Taewon, one of the leading literary figures of 1930s Korea, the novel captures a single day in the life of Gubo, a young and introspective writer, as he walks through the streets of Gyeongseong (colonial-era Seoul).",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "The story unfolds over the course of one day, beginning in the morning as Gubo leaves his home and ending with his return in the evening. In between, he traverses the city, meets old acquaintances, visits a newspaper office, stops by a caf\u00e9, and spends time in various urban neighborhoods. Yet what sets the novel apart is not its sequence of events, but its rich internal monologue and observational detail. Gubo\u2019s thoughts drift between past memories, social concerns, artistic frustrations, and the existential solitude of a colonial intellectual. Rather than a plot-driven narrative, the novel is a lyrical and psychological journey, portraying the fragmented experience of life in a rapidly modernizing society under Japanese rule.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "Park Taewon employs modernist techniques such as stream of consciousness, detailed urban description, and experimental narrative pacing to paint a vivid and immersive portrait of 1930s Seoul. The novel is notable for its cinematic qualities\u2014zooming in on street signs, shop windows, conversations, and facial expressions\u2014creating a literary montage of a city in flux. Through Gubo\u2019s seemingly mundane journey, the novel examines themes of alienation, creative anxiety, and the role of the artist in society.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "content": "A Day in the Life of Novelist Gubo is often praised for its stylistic innovation and its keen sociocultural insight. It stands as one of the most influential Korean novels of its era, marking a departure from traditional realism and opening the door for new forms of literary expression. For readers interested in modernism, urban studies, or Korean history and literature, this novel offers a compelling and nuanced experience of a day in the life of a modern subject.",
+          "type": "text",
+          "format": []
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "elements": [
+        {
+          "src": "images/image1.png",
+          "alt": "",
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    }
+  ],
+  "banner": {
+    "src": "A_Day_in_the_Life_of_Novelist_Gubo/images/banner.png",
+    "alt": "Image of the Book Cover",
+    "type": "image"
+  },
+  "metadata": {}
+}
