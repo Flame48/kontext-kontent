@@ -438,7 +438,7 @@
     }
   ],
   "banner": {
-    "src": "/docs/Analysis_on_The_Vegetarian/images/banner.png",
+    "src": "Analysis_on_The_Vegetarian/images/banner.png",
     "alt": "A Banner showcasing the black sillhouette of a woman with a red background. White text spelling \"THE VEGETARIAN\" is written on top.",
     "type": "image"
   },

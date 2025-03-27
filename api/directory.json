@@ -1,0 +1,26 @@
+{
+  "aboutUs": {
+    "url": "about_us/"
+  },
+  "analyses": {
+    "url": "analyses/"
+  },
+  "announcements": {
+    "url": "announcements/"
+  },
+  "bookData": {
+    "url": "book_data/"
+  },
+  "homePage": {
+    "url": "home_page/"
+  },
+  "people": {
+    "url": "people/"
+  },
+  "writersNook": {
+    "url": "writers_nook/"
+  },
+  "assets": {
+    "url": "assets/"
+  }
+}

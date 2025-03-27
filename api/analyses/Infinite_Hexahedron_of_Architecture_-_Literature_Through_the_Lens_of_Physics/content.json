@@ -26,7 +26,7 @@
     {
       "elements": [
         {
-          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics/images/image1.png",
+          "src": "images/image1.png",
           "alt": "",
           "type": "image"
         }
@@ -267,7 +267,7 @@
     {
       "elements": [
         {
-          "src": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/docs/Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics/images/image2.png",
+          "src": "images/image2.png",
           "alt": "",
           "type": "image"
         }
@@ -407,8 +407,8 @@
     }
   ],
   "banner": {
-    "src": "/docs/Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics/images/banner.png",
-    "alt": "image of the Mitsukoshi Department Store Main Branch",
+    "src": "Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics/images/banner.png",
+    "alt": "Image of the Mitsukoshi Department Store Main Branch",
     "type": "image"
   },
   "metadata": {}

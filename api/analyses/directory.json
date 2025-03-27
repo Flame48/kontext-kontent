@@ -4,7 +4,7 @@
     "author": "Han Kang",
     "publishDate": "13/10/2012",
     "img": {
-      "src": "/docs/Analysis_on_The_Vegetarian/images/thumbnail.png",
+      "src": "Analysis_on_The_Vegetarian/images/thumbnail.png",
       "alt": "A Thumbnail showcasing the black sillhouette of a woman with a red background. White text spelling \"THE VEGETARIAN\" is written on top."
     },
     "showTitleOverlay": false
@@ -14,7 +14,7 @@
     "author": "Pak Taewon",
     "publishDate": "7/12/1938",
     "img": {
-      "src": "/docs/Walking_Through_1930s_Korea_with_A_Day_in_the_Life_of_Kubo_the_Novelist/images/thumbnail.png",
+      "src": "Walking_Through_1930s_Korea_with_A_Day_in_the_Life_of_Kubo_the_Novelist/images/thumbnail.png",
       "alt": "Image of the Mitsukoshi Department Store Main Branch"
     },
     "showTitleOverlay": false
@@ -24,7 +24,7 @@
     "author": "Pak Taewon",
     "publishDate": "7/12/1938",
     "img": {
-      "src": "/docs/Wanderings_Gubo_-_A_Portrait_of_Gyeongseong_Lost_Youth/images/thumbnail.png",
+      "src": "Wanderings_Gubo_-_A_Portrait_of_Gyeongseong_Lost_Youth/images/thumbnail.png",
       "alt": "Image of old Korea's Currency Museum building."
     },
     "showTitleOverlay": false
@@ -34,7 +34,7 @@
     "author": "Pak Taewon",
     "publishDate": "7/12/1938",
     "img": {
-      "src": "/docs/Lost_in_the_Crowd_-_The_Isolation_of_Modern_Gyeongseong/images/thumbnail.png",
+      "src": "Lost_in_the_Crowd_-_The_Isolation_of_Modern_Gyeongseong/images/thumbnail.png",
       "alt": "Image of Seoul Station Gyeongui-Jungang Line terminal"
     },
     "showTitleOverlay": false
@@ -42,20 +42,10 @@
   "Korean_Phonology_and_Foreign_Word_Transcription": {
     "title": "Korean Phonology and Foreign Word Transcription",
     "author": "Korean Bible Society (KBS)",
-    "publishDate": 1998,
+    "publishDate": "1998",
     "img": {
-      "src": "/docs/Korean_Phonology_and_Foreign_Word_Transcription/images/thumbnail.png",
+      "src": "Korean_Phonology_and_Foreign_Word_Transcription/images/thumbnail.png",
       "alt": "Image of old korean book"
-    },
-    "showTitleOverlay": false
-  },
-  "Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics": {
-    "title": "Infinite Hexahedron of Architecture - Literature Through the Lens of Physics",
-    "author": "Yi Sang",
-    "publishDate": "7/1932",
-    "img": {
-      "src": "/docs/Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics/images/thumbnail.png",
-      "alt": "Image of the Mitsukoshi Department Store Main Branch"
     },
     "showTitleOverlay": false
   },
@@ -64,7 +54,7 @@
     "author": "Yi Sang",
     "publishDate": "7/24/1934",
     "img": {
-      "src": "/docs/Avant-Garde_Poetics-_Lee_Sang_and_Experimental_Notation_in_Korean_and_Japanese_Poetry/images/thumbnail.png",
+      "src": "Avant-Garde_Poetics-_Lee_Sang_and_Experimental_Notation_in_Korean_and_Japanese_Poetry/images/thumbnail.png",
       "alt": "Image of the Crow's Eye View"
     },
     "showTitleOverlay": false
@@ -74,8 +64,18 @@
     "author": "Han Kang",
     "publishDate": "5/19/2014",
     "img": {
-      "src": "/docs/Literature_as_Resistance-_Han_Kang,_Human_Acts,_and_the_Struggle_Against_Historical_Erasure/images/thumbnail.png",
+      "src": "Literature_as_Resistance-_Han_Kang,_Human_Acts,_and_the_Struggle_Against_Historical_Erasure/images/thumbnail.png",
       "alt": "Image of the old Korea"
+    },
+    "showTitleOverlay": false
+  },
+  "Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics": {
+    "title": "Infinite Hexahedron of Architecture - Literature Through the Lens of Physics",
+    "author": "Yi Sang",
+    "publishDate": "7/1932",
+    "img": {
+      "src": "Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics/images/thumbnail.png",
+      "alt": "Image of the Mitsukoshi Department Store Main Branch"
     },
     "showTitleOverlay": false
   }
