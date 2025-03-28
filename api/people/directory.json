@@ -2,7 +2,7 @@
   "people": [
     {
       "name": "Advait Subhash Rajan",
-      "roles": ["Web Developers"],
+      "roles": ["Web Developer"],
       "img": {
         "src": "profile_icons/default.png",
         "alt": "Default Profile Icon"
@@ -10,5 +10,5 @@
       "linkTo": "https://www.linkedin.com/in/advait-rajan-5b4911283/"
     }
   ],
-  "roles": ["Writers", "Researchers", "Web Developers", "Special Thanks"]
+  "roles": ["Writer", "Researcher", "Web Developer", "Special Thanks"]
 }
