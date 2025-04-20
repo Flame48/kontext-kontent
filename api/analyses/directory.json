@@ -49,6 +49,16 @@
     },
     "showTitleOverlay": false
   },
+  "Avant-Garde_Poetics_Lee_Sang_and_Experimental_Notation_in_Korean_and_Japanese_Poetry": {
+    "title": "Avant-Garde Poetics: Lee Sang and Experimental Notation in Korean and Japanese Poetry",
+    "author": "Yi Sang",
+    "publishDate": "7/24/1934",
+    "img": {
+      "src": "Avant-Garde_Poetics_Lee_Sang_and_Experimental_Notation_in_Korean_and_Japanese_Poetry/images/thumbnail.png",
+      "alt": "Image of the Crow's Eye View"
+    },
+    "showTitleOverlay": false
+  },
   "Literature_as_Resistance-_Han_Kang,_Human_Acts,_and_the_Struggle_Against_Historical_Erasure": {
     "title": "Literature as Resistance- Han Kang, Human Acts, and the Struggle Against Historical Erasure",
     "author": "Han Kang",
@@ -66,16 +76,6 @@
     "img": {
       "src": "Infinite_Hexahedron_of_Architecture_-_Literature_Through_the_Lens_of_Physics/images/thumbnail.png",
       "alt": "Image of the Mitsukoshi Department Store Main Branch"
-    },
-    "showTitleOverlay": false
-  },
-  "Avant-Garde_Poetics_Lee_Sang_and_Experimental_Notation_in_Korean_and_Japanese_Poetry": {
-    "title": "Avant-Garde Poetics: Lee Sang and Experimental Notation in Korean and Japanese Poetry",
-    "author": "Yi Sang",
-    "publishDate": "7/24/1934",
-    "img": {
-      "src": "Avant-Garde_Poetics_Lee_Sang_and_Experimental_Notation_in_Korean_and_Japanese_Poetry/images/thumbnail.png",
-      "alt": "Image of the Crow's Eye View"
     },
     "showTitleOverlay": false
   },
