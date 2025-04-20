@@ -1,0 +1,266 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Flame48/kontext-kontent/refs/heads/main/parser/document_content_schema.json",
+  "id": "The_Illusion_of_Fairness_A_Reflection_on_Squid_Game_and_Korean_Society",
+  "title": "The Illusion of Fairness: A Reflection on Squid Game and Korean Society",
+  "elements": [
+    {
+      "elements": [
+        {
+          "type": "hr"
+        },
+        {
+          "elements": [
+            {
+              "src": "images/image1.png",
+              "alt": "",
+              "type": "image"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "Beyond Novels: Scripts as Everyday Literature",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "Although we often associate literature with novels, its scope extends far beyond prose fiction. Literature also encompasses essays, poetry, song lyrics, and dramatic scripts. Scripts\u2014categorized as dramatic literature\u2014are central to plays, musicals, TV dramas, and films. In this sense, we engage with literature even when casually watching Netflix.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "type": "hr"
+            }
+          ],
+          "heading": "I. Expanding the Scope of Literature",
+          "type": "section"
+        },
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "How Firsthand Observation Changed My Perspective",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "One day, while watching a Japanese YouTube channel during a break, I came across a group of Japanese creators discussing the Korean drama Squid Game . Although I had seen headlines about the global popularity of Korean dramas, I was skeptical\u2014largely due to the sensationalism of Korean media. For instance, during the COVID-19 pandemic, Korean baseball continued while other leagues paused, and the media exaggerated its foreign popularity. So when I saw similar claims about K-dramas, I assumed it was more of the same. But hearing non-Koreans casually engage in thoughtful conversations about Squid Game made the global impact feel tangible and surprising.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "type": "hr"
+            }
+          ],
+          "heading": "II. A Surprising Encounter with Korean Drama Abroad",
+          "type": "section"
+        },
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "A Deadly Competition Wrapped in a Game",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "Squid Game is a Netflix original series centered on a secret survival game offered to people burdened by massive debt. Wealthy elites secretly fund and watch the competition, where losing means death and the sole winner walks away with 45.6 billion won. Though fictional, the show presents a hauntingly believable premise and reflects deeper societal truths.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "type": "hr"
+            }
+          ],
+          "heading": "III. Overview of Squid Game",
+          "type": "section"
+        },
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "The Game as a Mirror of Society",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "Despite its fictional setting, the drama serves as a powerful metaphor for the modern world. Both the backgrounds of the contestants and the games themselves echo real-life issues, turning the show into a form of social critique. One striking feature is the organizers' perspective: they don\u2019t view the killings as immoral, but rather as a form of giving participants another chance.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "type": "hr"
+            }
+          ],
+          "heading": "IV. Fiction as Social Commentary",
+          "type": "section"
+        },
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "When Procedure Matters More Than Ethics",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "The game is run with clinical bureaucracy. What the enforcers protect is not the dignity of life nor the thrill of the game for the elites, but the sanctity of its rules. When some staff members are caught selling organs and leaking information to a player, their crime isn\u2019t the illegal act itself\u2014but the violation of the game's sole sacred value: equality . By giving one contestant an advantage, they broke the fairness of the game, and for that, they are executed. The show thus interrogates what it means to have \"equal opportunity\" and whether that alone justifies the brutality that follows.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "type": "hr"
+            }
+          ],
+          "heading": "V. Bureaucracy, Morality, and the Myth of Equality",
+          "type": "section"
+        },
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "Rigid Meritocracy and Structural Inequality",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "Korea has a particularly intense discourse around \"fairness\" and \"equality.\" However, this often translates into rigid systems that ignore real-world inequalities. The idea that applying the same rules to everyone makes something fair is dangerously flawed\u2014especially in a society where not everyone starts from the same position. In education and employment, so-called \"equal opportunity\" justifies extreme competition, often benefiting those with more resources.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "Why must university entrance exams test for puzzle-solving speed over deep understanding? Why must civil servant exams prioritize rote memorization of historical trivia over administrative skills? These examples reflect how standardized measures of ability, believed to be neutral, can actually perpetuate injustice.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "type": "hr"
+            }
+          ],
+          "heading": "VI. Korean Society\u2019s Obsession with Fairness",
+          "type": "section"
+        },
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "When Rules Replace Ethics",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "Squid Game exposes the contradiction between formal equality and actual inequality. It forces us to question systems where fairness is reduced to identical treatment, regardless of context. In such a world, even the most brutal outcomes can be seen as \u201cjust,\u201d so long as the rules are followed. This may very well be a twisted microcosm of Korean society, where the fetishization of fairness leads to systemic absurdity and quiet cruelty.",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "type": "hr"
+            }
+          ],
+          "heading": "VII. The Tragedy of Formal Equality",
+          "type": "section"
+        },
+        {
+          "elements": [
+            {
+              "elements": [
+                {
+                  "content": "What Squid Game Teaches Us About Ourselves",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "elements": [
+                {
+                  "content": "By portraying a world that prizes rule-based equality over ethical justice, Squid Game holds a mirror to the contradictions of modern meritocratic societies\u2014especially Korea\u2019s. It reminds us that fairness without wisdom, and opportunity without context, can lead to profound injustice. In doing so, it challenges us to rethink what we truly mean by \u201cfair.\u201d",
+                  "type": "text",
+                  "format": []
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "heading": "Conclusion: A Distorted Mirror",
+          "type": "section"
+        }
+      ],
+      "heading": "The Illusion of Fairness: A Reflection on Squid Game and Korean Society",
+      "type": "section"
+    }
+  ],
+  "metadata": {}
+}

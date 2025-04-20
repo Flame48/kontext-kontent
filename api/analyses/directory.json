@@ -78,5 +78,15 @@
       "alt": "Image of the Crow's Eye View"
     },
     "showTitleOverlay": false
+  },
+  "The_Illusion_of_Fairness_A_Reflection_on_Squid_Game_and_Korean_Society": {
+    "title": "The Illusion of Fairness: A Reflection on Squid Game and Korean Society",
+    "author": "Hwang Dong-hyuk",
+    "publishDate": "9/7/2021",
+    "img": {
+      "src": "The_Illusion_of_Fairness_A_Reflection_on_Squid_Game_and_Korean_Society/images/thumbnail.png",
+      "alt": "old korea town"
+    },
+    "showTitleOverlay": false
   }
 }
